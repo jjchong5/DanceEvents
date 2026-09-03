@@ -1,0 +1,62 @@
+# Canonical dance style list + keywords for tagging/searching. One place —
+# don't duplicate keyword lists elsewhere (see ARCHITECTURE.md and the
+# ~/code/calendar sibling project's CLAUDE.md for why that caused bugs there).
+#
+# `search_terms` are used to build query strings for keyword-search platforms
+# (Eventbrite/Meetup/Luma/Facebook). `keywords` are used to tag events pulled
+# from named-source venues that cover multiple styles themselves.
+
+salsa:
+  label: "Salsa"
+  search_terms: ["salsa dance"]
+  keywords: ["salsa"]
+
+bachata:
+  label: "Bachata"
+  search_terms: ["bachata dance"]
+  keywords: ["bachata"]
+
+kizomba:
+  label: "Kizomba"
+  search_terms: ["kizomba dance"]
+  keywords: ["kizomba", "urban kiz"]
+
+zouk:
+  label: "Brazilian Zouk"
+  search_terms: ["brazilian zouk dance"]
+  keywords: ["zouk"]
+
+swing_lindy:
+  label: "Swing / Lindy Hop"
+  search_terms: ["lindy hop dance", "swing dance social"]
+  keywords: ["lindy hop", "lindy", "swing dance", "swing social", "jitterbug"]
+
+west_coast_swing:
+  label: "West Coast Swing"
+  search_terms: ["west coast swing dance"]
+  keywords: ["west coast swing", "wcs"]
+
+argentine_tango:
+  label: "Argentine Tango"
+  search_terms: ["argentine tango milonga"]
+  keywords: ["argentine tango", "milonga", "practica"]
+
+ballroom:
+  label: "Ballroom"
+  search_terms: ["ballroom dance social"]
+  keywords: ["ballroom", "foxtrot", "waltz", "cha cha", "rumba", "quickstep"]
+
+contra:
+  label: "Contra / English Country"
+  search_terms: ["contra dance"]
+  keywords: ["contra dance", "english country dance", "contra"]
+
+blues:
+  label: "Blues Dance"
+  search_terms: ["blues dance social"]
+  keywords: ["blues dance", "fusion dance"]
+
+line_dance_country:
+  label: "Line Dance / Country Western"
+  search_terms: ["country western line dance"]
+  keywords: ["line dance", "country western dance", "two step"]

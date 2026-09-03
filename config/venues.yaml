@@ -1,0 +1,115 @@
+# Named-source venues/dance groups: their own calendars, not general
+# keyword-search platforms. Researched 2026-09-03 (see ARCHITECTURE.md for
+# the template-connector grouping this drives).
+#
+# Each entry:
+#   platform: gcal_ical | wix | wp_events_calendar | punchpass | custom
+#   styles: default style tag(s) applied to every event from this venue
+#            (only meaningful when the venue's calendar doesn't self-tag)
+#   confirmed_active: date this was last verified to return real, current
+#            events (not just "site exists") — re-check periodically.
+#
+# Sources found invite-only/non-public are EXCLUDED here on purpose, not
+# scraped around (see ARCHITECTURE.md's legal posture note). Currently
+# excluded: Bay Area Zouk / bayzoukevents.com (calendar is by-request only,
+# confirmed 2026-09-03).
+
+venues:
+  - slug: nextgen_swing_wcs_norcal
+    name: "NextGen Swing Dance Club — Bay Area WCS Calendar"
+    platform: gcal_ical
+    styles: [west_coast_swing]
+    gcal_id: "c_8bot5sdo9c4492of1caqr9pcvc@group.calendar.google.com"
+    homepage: "https://nextgenswingdance.com/calendar/"
+    confirmed_active: "2026-09-03"
+    notes: "Curated multi-venue NorCal WCS calendar, 500+ events in feed — likely the single highest-value source in this list."
+
+  - slug: bayshore_blues
+    name: "Bayshore Blues"
+    platform: wix
+    styles: [blues]
+    calendar_url: "https://www.bayshoreblues.com/calendar"
+    homepage: "https://www.bayshoreblues.com"
+    confirmed_active: "2026-09-03"
+
+  - slug: tip_top_ballroom
+    name: "Tip Top Ballroom"
+    platform: custom
+    styles: [ballroom, salsa, bachata]
+    calendar_url: "https://www.tiptopballroom.com/schedule-2"
+    homepage: "https://www.tiptopballroom.com"
+    confirmed_active: null
+    notes: "Not a Wix calendar-grid widget like Bayshore Blues -- it's a static weekly class schedule table, needs its own parser."
+
+  - slug: sf_tango_with_us
+    name: "SF Tango With.Us"
+    platform: wp_events_calendar
+    styles: [argentine_tango]
+    calendar_url: "https://sftangowith.us/events/"
+    homepage: "https://sftangowith.us"
+    confirmed_active: null
+
+  - slug: cats_corner
+    name: "Cat's Corner (SF Lindy Hop)"
+    platform: custom
+    styles: [swing_lindy]
+    homepage: "https://catscornersf.com"
+    confirmed_active: null
+    notes: "Custom WordPress, no Events Calendar plugin detected — needs its own scraper."
+
+  - slug: bawdc
+    name: "Bay Area Whip Dance Club (BAWDC)"
+    platform: custom
+    styles: [west_coast_swing]
+    homepage: "https://bawdc.org/schedule"
+    confirmed_active: null
+
+  - slug: bacds_contra
+    name: "Bay Area Country Dance Society (BACDS) — Contra"
+    platform: custom
+    styles: [contra]
+    homepage: "https://www.bacds.org/dance-scheduler/calendars/"
+    confirmed_active: null
+    notes: "Aggregates multiple Bay Area contra series itself — high value if scrapeable."
+
+  - slug: golden_city_dance_collective
+    name: "Golden City Dance Collective (GCDC)"
+    platform: custom  # was going to be `punchpass` but the schedule widget at
+                        # app.punchpass.com/org/18608/classes renders as a
+                        # single day's dense, noisy JS-widget markdown (course
+                        # cards + instructor avatars interleaved) -- not a
+                        # stable pattern to regex-parse reliably in v1. No
+                        # `punchpass` template connector was built; deferred.
+    styles: [salsa, bachata, argentine_tango]
+    punchpass_org_id: "18608"
+    homepage: "https://goldencitydance.com/calendar"
+    confirmed_active: "2026-09-03"
+    notes: "Jon's own membership confirmed active via email 2026-09-02. Recurring class series (Salsa/Bachata/Tango L1-L3 + practica), not drop-in socials -- lower priority than the venue-aggregator sources (SF Tango With.Us, NextGen WCS) that already returned 50+ real events each with zero custom parsing."
+
+  - slug: sundance_saloon
+    name: "Sundance Saloon"
+    platform: custom
+    styles: [line_dance_country]
+    homepage: "https://www.sundancesaloon.org"
+    confirmed_active: null
+
+  - slug: kizomba_foundations
+    name: "Kizomba Foundations"
+    platform: custom
+    styles: [kizomba]
+    homepage: "https://www.kizombafoundations.com"
+    confirmed_active: null
+
+# --- Not yet template-classified / needs a follow-up map+scrape pass before
+# wiring in (from initial research, lower confidence on URL/platform):
+#   - Mission City Swing (South Bay WCS) — missioncityswing.com
+#   - La Bruja Tango at Berkeley City Club — labrujatangoberkeley.com
+#   - Arthur Murray Los Gatos — franchise template, may repeat across other
+#     Arthur Murray Bay Area locations if confirmed
+#   - Bay Area Ballroom & Latin Social
+#   - TangoMango (NorCal tango aggregator) — tangomango.org
+#   - District Zouk, OmniZouk
+#   - Bay Area Fusion Calendar
+#   - DJ Shivers Bay Area Country Nights, Coastside Country
+#   - CCSF Argentine Tango — community-college course catalog, not an event
+#     calendar; different shape entirely, lowest priority to automate

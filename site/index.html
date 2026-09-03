@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bay Area Dance Events</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #faf9f7;
+    --fg: #1c1a17;
+    --muted: #6b6459;
+    --card: #ffffff;
+    --border: #e5e0d8;
+    --accent: #a8324a;
+    --accent-fg: #ffffff;
+    --chip-bg: #f1ede5;
+    --chip-fg: #4a453c;
+    --chip-active-bg: #a8324a;
+    --chip-active-fg: #ffffff;
+    --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #171512;
+      --fg: #f2efe9;
+      --muted: #a39c8e;
+      --card: #221f1b;
+      --border: #37322a;
+      --accent: #e0587a;
+      --accent-fg: #171512;
+      --chip-bg: #2b2721;
+      --chip-fg: #c9c2b4;
+      --chip-active-bg: #e0587a;
+      --chip-active-fg: #171512;
+      --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 1px 2px rgba(0,0,0,0.3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #171512;
+    --fg: #f2efe9;
+    --muted: #a39c8e;
+    --card: #221f1b;
+    --border: #37322a;
+    --accent: #e0587a;
+    --accent-fg: #171512;
+    --chip-bg: #2b2721;
+    --chip-fg: #c9c2b4;
+    --chip-active-bg: #e0587a;
+    --chip-active-fg: #171512;
+    --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 1px 2px rgba(0,0,0,0.3);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 28px 20px 18px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 1.6rem;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+  .tagline {
+    color: var(--muted);
+    font-size: 0.92rem;
+    margin: 0 0 18px;
+  }
+  .controls {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px 8px;
+  }
+  input[type="search"] {
+    width: 100%;
+    padding: 11px 14px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--fg);
+    font-size: 0.95rem;
+    margin-bottom: 12px;
+  }
+  input[type="search"]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 6px;
+  }
+  .chip {
+    border: 1px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--chip-fg);
+    padding: 5px 12px;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.12s, color 0.12s;
+  }
+  .chip[aria-pressed="true"] {
+    background: var(--chip-active-bg);
+    color: var(--chip-active-fg);
+    border-color: transparent;
+  }
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 10px 0 4px;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 8px 20px 60px;
+  }
+  .day-group { margin-top: 22px; }
+  .day-heading {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin: 0 0 8px;
+  }
+  .event-card {
+    display: block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: var(--shadow);
+  }
+  .event-card:hover { border-color: var(--accent); }
+  .event-title {
+    font-size: 0.98rem;
+    font-weight: 600;
+    margin: 0 0 4px;
+  }
+  .event-sub {
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+  .event-styles {
+    margin-top: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .style-tag {
+    font-size: 0.7rem;
+    background: var(--chip-bg);
+    color: var(--chip-fg);
+    padding: 2px 8px;
+    border-radius: 999px;
+  }
+  .empty-state {
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 20px;
+    font-size: 0.9rem;
+  }
+  footer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 20px 40px;
+    color: var(--muted);
+    font-size: 0.78rem;
+    border-top: 1px solid var(--border);
+  }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Bay Area Dance Events</h1>
+  <p class="tagline">Every partner-dance style, one search. Salsa, bachata, swing, tango, kizomba, zouk, contra, ballroom, blues, line dance — from Eventbrite, Meetup, Luma, and individual dance venues/groups across the Bay Area.</p>
+</header>
+
+<div class="controls">
+  <input type="search" id="search" placeholder="Search by title, venue, or city...">
+  <div class="chips" id="style-chips"></div>
+  <div class="meta-row">
+    <span id="result-count"></span>
+    <span id="generated-at"></span>
+  </div>
+</div>
+
+<main id="results"></main>
+
+<footer>
+  Aggregated from public event listings. Every event links back to its original source — click through to confirm details and register. Not affiliated with any listed organizer.
+  See also <a href="https://www.salsavida.com/guides/sf-bay-area/" target="_blank" rel="noopener">SalsaVida</a> and
+  <a href="https://www.danceus.org" target="_blank" rel="noopener">DanceUS.org</a> for broader national coverage.
+</footer>
+
+<script>
+const STYLE_LABELS = {
+  salsa: "Salsa", bachata: "Bachata", kizomba: "Kizomba", zouk: "Brazilian Zouk",
+  swing_lindy: "Swing / Lindy Hop", west_coast_swing: "West Coast Swing",
+  argentine_tango: "Argentine Tango", ballroom: "Ballroom",
+  contra: "Contra / English", blues: "Blues", line_dance_country: "Line Dance / Country"
+};
+
+let ALL_EVENTS = [];
+let activeStyles = new Set();
+let searchTerm = "";
+
+async function init() {
+  try {
+    const res = await fetch("events.json");
+    const data = await res.json();
+    ALL_EVENTS = (data.events || []).filter(e => e.status !== "cancelled");
+    document.getElementById("generated-at").textContent = data.generated_at
+      ? "Updated " + new Date(data.generated_at).toLocaleDateString(undefined, { month: "short", day: "numeric" })
+      : "";
+    buildChips();
+    render();
+  } catch (err) {
+    document.getElementById("results").innerHTML =
+      '<div class="empty-state">Could not load events.json. If you are running this locally, serve the site/ folder with a local HTTP server rather than opening index.html directly (fetch of a local file is blocked by the browser).</div>';
+  }
+}
+
+function buildChips() {
+  const present = new Set();
+  ALL_EVENTS.forEach(e => (e.styles || []).forEach(s => present.add(s)));
+  const container = document.getElementById("style-chips");
+  container.innerHTML = "";
+  Object.keys(STYLE_LABELS).filter(k => present.has(k)).forEach(key => {
+    const chip = document.createElement("button");
+    chip.className = "chip";
+    chip.textContent = STYLE_LABELS[key];
+    chip.setAttribute("aria-pressed", "false");
+    chip.addEventListener("click", () => {
+      if (activeStyles.has(key)) { activeStyles.delete(key); chip.setAttribute("aria-pressed", "false"); }
+      else { activeStyles.add(key); chip.setAttribute("aria-pressed", "true"); }
+      render();
+    });
+    container.appendChild(chip);
+  });
+}
+
+function eventStart(e) {
+  const s = e.start || {};
+  return s.dateTime || s.date || null;
+}
+
+function matchesFilters(e) {
+  if (activeStyles.size > 0) {
+    const styles = e.styles || [];
+    if (![...activeStyles].some(s => styles.includes(s))) return false;
+  }
+  if (searchTerm) {
+    const hay = (e.title + " " + (e.location || "") + " " + (e.source_label || "")).toLowerCase();
+    if (!hay.includes(searchTerm)) return false;
+  }
+  const start = eventStart(e);
+  if (start) {
+    const d = new Date(start);
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - 1);
+    if (d < cutoff) return false;
+  }
+  return true;
+}
+
+function formatDayHeading(dateStr) {
+  const d = new Date(dateStr);
+  const today = new Date();
+  const diffDays = Math.round((d.setHours(0,0,0,0) - today.setHours(0,0,0,0)) / 86400000);
+  const weekday = d.toLocaleDateString(undefined, { weekday: "long" });
+  const full = d.toLocaleDateString(undefined, { month: "long", day: "numeric" });
+  if (diffDays === 0) return "Today — " + full;
+  if (diffDays === 1) return "Tomorrow — " + full;
+  return weekday + ", " + full;
+}
+
+function formatTime(e) {
+  const s = e.start || {};
+  if (s.dateTime) {
+    return new Date(s.dateTime).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+  }
+  return "All day";
+}
+
+function render() {
+  const filtered = ALL_EVENTS.filter(matchesFilters);
+  filtered.sort((a, b) => (eventStart(a) || "").localeCompare(eventStart(b) || ""));
+
+  document.getElementById("result-count").textContent =
+    filtered.length + " event" + (filtered.length === 1 ? "" : "s");
+
+  const container = document.getElementById("results");
+  container.innerHTML = "";
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="empty-state">No events match. Try clearing a filter.</div>';
+    return;
+  }
+
+  let currentDay = null;
+  let dayContainer = null;
+
+  filtered.forEach(e => {
+    const start = eventStart(e);
+    const dayKey = start ? start.slice(0, 10) : "unknown";
+    if (dayKey !== currentDay) {
+      currentDay = dayKey;
+      const group = document.createElement("div");
+      group.className = "day-group";
+      const heading = document.createElement("div");
+      heading.className = "day-heading";
+      heading.textContent = start ? formatDayHeading(start) : "Date unknown";
+      group.appendChild(heading);
+      dayContainer = group;
+      container.appendChild(group);
+    }
+
+    const card = document.createElement("a");
+    card.className = "event-card";
+    card.href = e.url || "#";
+    card.target = "_blank";
+    card.rel = "noopener";
+
+    const title = document.createElement("div");
+    title.className = "event-title";
+    title.textContent = e.title;
+    card.appendChild(title);
+
+    const sub = document.createElement("div");
+    sub.className = "event-sub";
+    const parts = [formatTime(e)];
+    if (e.location) parts.push(e.location);
+    if (e.source_label) parts.push("via " + e.source_label);
+    sub.textContent = parts.join(" · ");
+    card.appendChild(sub);
+
+    if (e.styles && e.styles.length) {
+      const tagsRow = document.createElement("div");
+      tagsRow.className = "event-styles";
+      e.styles.forEach(s => {
+        const tag = document.createElement("span");
+        tag.className = "style-tag";
+        tag.textContent = STYLE_LABELS[s] || s;
+        tagsRow.appendChild(tag);
+      });
+      card.appendChild(tagsRow);
+    }
+
+    dayContainer.appendChild(card);
+  });
+}
+
+document.getElementById("search").addEventListener("input", (e) => {
+  searchTerm = e.target.value.trim().toLowerCase();
+  render();
+});
+
+init();
+</script>
+</body>
+</html>

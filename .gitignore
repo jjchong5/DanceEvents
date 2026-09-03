@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+data/.scratch-*
+data/raw/*.json
+data/events.json
