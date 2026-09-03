@@ -39,7 +39,7 @@ venues:
     calendar_url: "https://www.tiptopballroom.com/schedule-2"
     homepage: "https://www.tiptopballroom.com"
     confirmed_active: null
-    notes: "Not a Wix calendar-grid widget like Bayshore Blues -- it's a static weekly class schedule table, needs its own parser."
+    notes: "Re-checked 2026-09-03: IS a real dated weekly class schedule (not static), but mostly private kids/adult lesson bookings (not open social dances) with verbose per-entry About text and a Cancelled-status flag to track -- lower value + more parsing overhead than sources already wired in. Deferred, not attempted."
 
   - slug: sf_tango_with_us
     name: "SF Tango With.Us"
@@ -51,11 +51,11 @@ venues:
 
   - slug: cats_corner
     name: "Cat's Corner (SF Lindy Hop)"
-    platform: custom
+    platform: custom  # src/connectors/custom/recurring.py -- fixed weekly recurrence, no dated calendar exists on site
     styles: [swing_lindy]
-    homepage: "https://catscornersf.com"
-    confirmed_active: null
-    notes: "Custom WordPress, no Events Calendar plugin detected — needs its own scraper."
+    homepage: "https://www.catscornersf.com"
+    confirmed_active: "2026-09-03"
+    notes: "Every Wednesday, no per-date listing on the site at all -- generated via recurring.py rather than scraped."
 
   - slug: bawdc
     name: "Bay Area Whip Dance Club (BAWDC)"
@@ -63,14 +63,15 @@ venues:
     styles: [west_coast_swing]
     homepage: "https://bawdc.org/schedule"
     confirmed_active: null
+    notes: "BLOCKED 2026-09-03: schedule page is gated behind a reCAPTCHA challenge even via firecrawl. Not automatable without a different approach (official API, manual entry) -- don't re-attempt with the same scrape method."
 
   - slug: bacds_contra
     name: "Bay Area Country Dance Society (BACDS) — Contra"
-    platform: custom
+    platform: custom  # src/connectors/custom/bacds.py -- confirmed working 2026-09-03
     styles: [contra]
-    homepage: "https://www.bacds.org/dance-scheduler/calendars/"
-    confirmed_active: null
-    notes: "Aggregates multiple Bay Area contra series itself — high value if scrapeable."
+    homepage: "https://bacds.org/dance-scheduler/calendars/"  # NOTE: www. subdomain has flaky DNS, use bare domain
+    confirmed_active: "2026-09-03"
+    notes: "Genuine multi-venue aggregator -- its own monthly page lists real Bay Area church-hall/community-center venues by code (ASE, CCB, SME, PCSF, etc, resolved via its own 'Dance Venues' legend table). 21-35 real events/month confirmed live."
 
   - slug: golden_city_dance_collective
     name: "Golden City Dance Collective (GCDC)"
@@ -88,10 +89,10 @@ venues:
 
   - slug: sundance_saloon
     name: "Sundance Saloon"
-    platform: custom
+    platform: custom  # src/connectors/custom/recurring.py -- twice-weekly recurrence (Sun+Thu), no dated calendar
     styles: [line_dance_country]
     homepage: "https://www.sundancesaloon.org"
-    confirmed_active: null
+    confirmed_active: "2026-09-03"
 
   - slug: kizomba_foundations
     name: "Kizomba Foundations"

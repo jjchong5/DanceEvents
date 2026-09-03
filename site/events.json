@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-09-03T21:00:32.341111+00:00",
-  "count": 340,
+  "generated_at": "2026-09-03T22:24:58.617459+00:00",
+  "count": 391,
   "events": [
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "All Saints Episcopal Church, 555 Waverley St, Palo Alto",
+      "start": {
+        "date": "2026-09-01"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-02"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
     {
       "source": "wp_events_calendar:sf_tango_with_us",
       "source_label": "SF Tango With.Us",
@@ -53,6 +85,24 @@
       "url": "https://sftangowith.us/event/tango-fundamentals-practica-with-ramada-elaine-4/2026-09-02/",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "gcal_ical:nextgen_swing_wcs_norcal",
+      "source_label": "NextGen Swing Dance Club — Bay Area WCS Calendar",
+      "title": "[San Jose] South Bay Dance Fling",
+      "description": "For more information:<br><br><a href=\"https://sbdf.dance\" target=\"_blank\">https://sbdf.dance</a><br><br><p>Thursday Sept 3</p><ul><li>7 pm Opening WCS workshop with Ronnie DeBenedetta</li><li>8 pm Social WCS dancing</li></ul><p>Friday Sept 4</p><ul><li>11 am - 6 pm WCS workshops</li><li>8:30 pm Pro-Am Routines, All-American J&amp;J</li><li>9:30 pm - midnight Social WCS dancing with DJ Ruben</li></ul><p>Saturday Sept 5</p><ul><li>10 am - 1 pm, 5 pm WCS workshops</li><li>1 pm - 5 pm WSDC J&amp;J prelims and semis</li><li>7 pm WCS workshop</li><li>8 pm - 2 am Social WCS dancing with DJ Kathleen Sun</li></ul><p>Sunday Sept 6</p><ul><li>11 am Strictly Swing, Pro-Am Strictly Swing</li><li>2 pm - 4 pm WSDC J&amp;J finals</li><li>7 pm - late Social dancing mix</li></ul>",
+      "location": "",
+      "start": {
+        "date": "2026-09-03"
+      },
+      "end": {
+        "date": "2026-09-07"
+      },
+      "url": "https://nextgenswingdance.com/calendar/",
+      "styles": [
+        "west_coast_swing"
       ],
       "status": "confirmed"
     },
@@ -201,20 +251,18 @@
       "status": "confirmed"
     },
     {
-      "source": "gcal_ical:nextgen_swing_wcs_norcal",
-      "source_label": "NextGen Swing Dance Club — Bay Area WCS Calendar",
-      "title": "[San Jose] South Bay Dance Fling",
-      "description": "For more information:<br><br><a href=\"https://sbdf.dance\" target=\"_blank\">https://sbdf.dance</a><br><br><p>Thursday Sept 3</p><ul><li>7 pm Opening WCS workshop with Ronnie DeBenedetta</li><li>8 pm Social WCS dancing</li></ul><p>Friday Sept 4</p><ul><li>11 am - 6 pm WCS workshops</li><li>8:30 pm Pro-Am Routines, All-American J&amp;J</li><li>9:30 pm - midnight Social WCS dancing with DJ Ruben</li></ul><p>Saturday Sept 5</p><ul><li>10 am - 1 pm, 5 pm WCS workshops</li><li>1 pm - 5 pm WSDC J&amp;J prelims and semis</li><li>7 pm WCS workshop</li><li>8 pm - 2 am Social WCS dancing with DJ Kathleen Sun</li></ul><p>Sunday Sept 6</p><ul><li>11 am Strictly Swing, Pro-Am Strictly Swing</li><li>2 pm - 4 pm WSDC J&amp;J finals</li><li>7 pm - late Social dancing mix</li></ul>",
-      "location": "",
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
       "start": {
-        "date": "2026-09-03"
+        "dateTime": "2026-09-03T18:30:00"
       },
-      "end": {
-        "date": "2026-09-07"
-      },
-      "url": "https://nextgenswingdance.com/calendar/",
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
       "styles": [
-        "west_coast_swing"
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -479,14 +527,14 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "BIH EVENTS: Bollywood Come Back at Madarae",
+      "title": "BIH events: THE BOLLYWOOD COMEBACK at Madarae",
       "description": "BIH EVENTS: Bollywood Come Back at Madarae San Francisco",
       "location": "Madarae, San Francisco",
       "start": {
         "date": "2026-09-04"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/bih-events-bollywood-come-back-at-madarae-tickets-1999295177696",
+      "url": "https://www.eventbrite.com/e/bih-events-the-bollywood-comeback-at-madarae-tickets-1999295177696",
       "styles": [
         "ballroom"
       ],
@@ -521,6 +569,22 @@
       "url": "https://www.eventbrite.com/e/nu-noize-madrone-art-bar-tickets-1998392314207",
       "styles": [
         "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "St. Mark's Episcopal Church, 600 Colorado Avenue, Palo Alto",
+      "start": {
+        "date": "2026-09-04"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -817,6 +881,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Princess: GAGATHON w/ JEWELS SPARKLES + Dj Mark Kanemura",
+      "description": "PRINCESSA DISCO-POP DANCE PARTY AND DRAG SPECTACULAR\nFEATURING JEWELS SPARKLES  + DJ MARK KANEMURA. Doors at 9:30pm.",
+      "location": "OASIS, San Francisco",
+      "start": {
+        "date": "2026-09-05"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/princess-gagathon-w-jewels-sparkles-dj-mark-kanemura-tickets-1992224138026",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Hawthorn feat. Candee Beats + FUZE Collective Takeover",
       "description": "Table Reservations: Call/Text 415-969-0196",
       "location": "Hawthorn, San Francisco",
@@ -857,22 +937,6 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/flechazo-latin-singles-social-night-san-francisco-tickets-1998022513122",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "NODO | Gay Professionals Networking Night",
-      "description": "Where gay professionals connect for real. London's favorite social, back again.",
-      "location": "2 Hartford St, San Francisco",
-      "start": {
-        "date": "2026-09-05"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.co.uk/e/nodo-gay-professionals-networking-night-tickets-1998443851356",
       "styles": [
         "swing_lindy"
       ],
@@ -1333,6 +1397,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "1984 vs Fringe on Labor Day Sunday, September 6",
+      "description": "1984 the 80s & New Wave club meets Fringe, the Indie Rock and Indie Sleaze party, all the best Music & Video from 2 nightclubs under 1 roof",
+      "location": "Cat Club, San Francisco",
+      "start": {
+        "date": "2026-09-06"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/1984-vs-fringe-on-labor-day-sunday-september-6-tickets-1997512157635",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Dance at the Plaza: BollyX [All Levels] with Simran Suri",
       "description": "Join us for FREE weekly classes at the new fitness court at UN Plaza SF!",
       "location": "Fitness Court at UN Plaza, San Francisco",
@@ -1358,7 +1438,7 @@
       "end": null,
       "url": "https://www.meetup.com/come-dance-marin/events/316148099/",
       "styles": [
-        "bachata"
+        "salsa"
       ],
       "status": "confirmed"
     },
@@ -1375,6 +1455,22 @@
       "url": "https://www.meetup.com/livejazz/events/316217281/",
       "styles": [
         "blues"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_sun",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Sunday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-09-06T17:00:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -1539,6 +1635,22 @@
       "url": "https://www.eventbrite.com/e/the-west-coast-blues-revue-live-blues-tickets-1991512743225",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Improper English Dance",
+      "description": "",
+      "location": "Berkeley Fellowship of Unitarian Universalists, 1924 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-08"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -1755,18 +1867,34 @@
       "status": "confirmed"
     },
     {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Loving Life, Dancing Peace: Biodanza in the Park",
-      "description": "After a fun Bay Area Dance Week experience, we will continue with Biodanza in the park on Tuesdays!\n\nBiodanza is a globally practiced authentic movement journey that opens our hearts to all of life, cultivates vitality, and nurtures deep peace with ourselves, and the world. No prior dance experience needed!\n\nI will guide us through a journey of nourishing exercises (in the whole group, solo, or in small groups). Each exercise is an invitation that you are welcome to modify for your comfort. No prior dance experience needed!\n\nMay themes: unfurling, budding, and dancing our dreams\n\nFor more info: [http://www.biodanzawithbabsi.com](http://www.biodanzawithbabsi.com/)\n[Loving Life\\, Dancing Peace: Biodanza \\- The Poetry of Human Encounter \\| BOPSIDY](https://www.bopsidy.com/e/1442)",
-      "location": "Strawberry Creek Park",
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "The Polish Club, 3040 22nd Street, San Francisco",
       "start": {
-        "dateTime": "2026-09-09T00:30:00.000Z"
+        "date": "2026-09-09"
       },
       "end": null,
-      "url": "https://www.meetup.com/biodanza-with-babsi/events/316191396/",
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
       "styles": [
-        "kizomba"
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-09"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -1937,6 +2065,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:recurring:cats_corner",
+      "source_label": "Cat's Corner (SF Lindy Hop)",
+      "title": "Cat's Corner Wednesday Swing Dance Party",
+      "description": "",
+      "location": "435 Broadway, San Francisco",
+      "start": {
+        "dateTime": "2026-09-09T20:00:00"
+      },
+      "end": null,
+      "url": "https://www.catscornersf.com/dance-party/",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "D. Dan",
@@ -2051,22 +2195,6 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
-      "title": "Brazilian Samba Class",
-      "description": "Energetic, Friendly and Fun- Mary Dollar’s samba dance classes are authentic and accessible to all levels, with an “easy to follow” format for all to enjoy!\n\nGet in the groove, sweat and swing to a variety of Afro-Brazilian and samba rhythms, while improving your dance technique and performance skills.\nLearn basic technique, samba footwork, hip movements, arm styling & fun choreography that will boost your confidence on the dance floor!\nThe class includes full body warm-up, stretching and floor mat exercises.\nWear comfortable clothing and soft-soled shoes and bring a floor mat and towel.​\nYou’ll have so much fun, you’ll forget you’re getting a great workout!\n\n**DROP IN:** $20/class\nOR Purchase a **CLASS PACK** at a discounted rate!\n\n[https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN](https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN)",
-      "location": "Hidden City Ballroom",
-      "start": {
-        "dateTime": "2026-09-10T02:30:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/come-dance-marin/events/316208523/",
-      "styles": [
-        "salsa"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
       "title": "Bachata Dance Classes w/ Henry",
       "description": "Location: ALLEGRO, 12012 San Pablo Ave (cross st - Key Street), Richmond, CA (Park at the Grocery lot)\n\nBeginners - 730pm\n$15-$25 at the door",
       "location": "Allegro Ballroom (New Location)",
@@ -2076,7 +2204,23 @@
       "end": null,
       "url": "https://www.meetup.com/danceenthusiasts/events/316208381/",
       "styles": [
-        "salsa"
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "Brazilian Samba Class",
+      "description": "Energetic, Friendly and Fun- Mary Dollar’s samba dance classes are authentic and accessible to all levels, with an “easy to follow” format for all to enjoy!\n\nGet in the groove, sweat and swing to a variety of Afro-Brazilian and samba rhythms, while improving your dance technique and performance skills.\nLearn basic technique, samba footwork, hip movements, arm styling & fun choreography that will boost your confidence on the dance floor!\nThe class includes full body warm-up, stretching and floor mat exercises.\nWear comfortable clothing and soft-soled shoes and bring a floor mat and towel.​\nYou’ll have so much fun, you’ll forget you’re getting a great workout!\n\n**DROP IN:** $20/class\nOR Purchase a **CLASS PACK** at a discounted rate!\n\n[https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN](https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN)",
+      "location": "Hidden City Ballroom",
+      "start": {
+        "dateTime": "2026-09-10T02:30:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/come-dance-marin/events/316208523/",
+      "styles": [
+        "kizomba"
       ],
       "status": "confirmed"
     },
@@ -2097,9 +2241,25 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-09-10T18:30:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wix:bayshore_blues",
       "source_label": "Bayshore Blues",
-      "title": "Blue Light Lounge: Drop in Lesson and Social Dancing to DJ'd Music \\[Partner Org Event\\] (SF)",
+      "title": "Blue Light Lounge: Drop in Lesson and Social Dancing to DJ'd Music [Partner Org Event] (SF)",
       "description": "",
       "location": "",
       "start": {
@@ -2261,6 +2421,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "KNICK",
+      "description": "Berlin techno in a San Francisco basement. Lower, closer, louder. KNICK returns.",
+      "location": "Club Six, San Francisco",
+      "start": {
+        "date": "2026-09-11"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/knick-tickets-1993971010970",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Hear + There x Locator: Mungo Sound Machine",
       "description": "Mungo Sound Machine headlines at Monarch 9/11!",
       "location": "Monarch, San Francisco",
@@ -2271,6 +2447,22 @@
       "url": "https://www.eventbrite.com/e/hear-there-x-locator-mungo-sound-machine-tickets-1995983157354",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Casa De Cumbia @ The Valencia Room",
+      "description": "The city's biggest Cumbia party!",
+      "location": "The Valencia Room, San Francisco",
+      "start": {
+        "date": "2026-09-11"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/casa-de-cumbia-the-valencia-room-tickets-1999037379615",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -2286,7 +2478,7 @@
       "end": null,
       "url": "https://www.meetup.com/the-sound-portal-with-balance-point-living/events/316362428/",
       "styles": [
-        "ballroom"
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -2455,14 +2647,14 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "THE REUNION: PHS ALL BLACK AFFAIR 2026",
-      "description": "PHS All Black Affair 2026: An elegant night of music, dancing, and reconnecting with fellow alumni. Dress to impress in all black.",
-      "location": "Carl F. Grant Civic Center, Plaquemine",
+      "title": "Tech & Latin House Duo BLACK V NECK at MadaRae",
+      "description": "Tech & Latin House Duo BLACK V NECK at MadaRae  San Francisco",
+      "location": "Madarae, San Francisco",
       "start": {
         "date": "2026-09-12"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/the-reunion-phs-all-black-affair-2026-tickets-1996412618885",
+      "url": "https://www.eventbrite.com/e/tech-latin-house-duo-black-v-neck-at-madarae-tickets-1999327796259",
       "styles": [
         "swing_lindy"
       ],
@@ -2549,6 +2741,38 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "First United Methodist Church of Palo Alto, 625 Hamilton at Byron, Palo Alto",
+      "start": {
+        "date": "2026-09-12"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "St. John's Presbyterian Church, 25 Lake, San Francisco",
+      "start": {
+        "date": "2026-09-12"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "meetup",
       "source_label": "Meetup",
       "title": "FRIDAYS LINE DANCING CLASSES IN SAN MATEO",
@@ -2567,7 +2791,7 @@
     {
       "source": "wix:bayshore_blues",
       "source_label": "Bayshore Blues",
-      "title": "Blue Light Lounge: Drop in Lesson and Social Dancing to DJ'd Music \\[Partner Org Event\\] (SF)",
+      "title": "Blue Light Lounge: Drop in Lesson and Social Dancing to DJ'd Music [Partner Org Event] (SF)",
       "description": "",
       "location": "",
       "start": {
@@ -2727,6 +2951,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "First Unitarian Church of San Jose, 160 N 3rd St, San Jose",
+      "start": {
+        "date": "2026-09-13"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wix:bayshore_blues",
       "source_label": "Bayshore Blues",
       "title": "Blues at the Turf Club (Hayward)",
@@ -2739,6 +2979,22 @@
       "url": "https://www.bayshoreblues.com/calendar",
       "styles": [
         "blues"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_sun",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Sunday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-09-13T17:00:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -2791,6 +3047,22 @@
       "url": "https://lu.ma/d49x74qb",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "LGBTQ+ Singles Dancing!",
+      "description": "Come out for an engaging **LGBTQ+ Singles Mixer** featuring dancing at the Sundance Saloon in San Francisco. This in-person LGBTQ+ singles event offers a wonderful opportunity to connect with others in the community in a vibrant and welcoming setting.\nThere will be at $7 fee to attend this event. Please bring money with you to pay there! I will give everyone wristbands for this event so you will know who is a part of my group. I can provide wristbands indicating what you are looking for as well (friends, casual, long term).\n**You are welcome to bring your snacks. Please do not bring your drinks outside including water. Everyone needs to be 21+ to come to this event. IDs will be checked! Everyone should aim to arrive at 5pm or a little before that.**\n\n**Date and Time:** September 13, 2026 at 5:00 PM (Pacific Daylight Time)",
+      "location": "550 Barneveld Ave",
+      "start": {
+        "dateTime": "2026-09-14T00:00:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/san-francisco-together-date-or-friends-lgbtq-singles/events/316407689/",
+      "styles": [
+        "salsa"
       ],
       "status": "confirmed"
     },
@@ -2889,6 +3161,22 @@
       "url": "https://www.eventbrite.co.uk/e/the-irish-dolls-beginner-heels-dance-class-with-clo-tickets-1997830554970",
       "styles": [
         "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "All Saints Episcopal Church, 555 Waverley St, Palo Alto",
+      "start": {
+        "date": "2026-09-15"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -3025,6 +3313,38 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Botmc Welcome Square Dance Party Dance",
+      "description": "",
+      "location": "Ashkenaz, 1317 San Pablo Avenue, Berkeley",
+      "start": {
+        "date": "2026-09-16"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-16"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wp_events_calendar:sf_tango_with_us",
       "source_label": "SF Tango With.Us",
       "title": "Tango dance classes with Diego and Alejandra at La Bruja",
@@ -3075,6 +3395,22 @@
       "url": "https://sftangowith.us/event/tango-fundamentals-practica-with-ramada-elaine-4/2026-09-16/",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:cats_corner",
+      "source_label": "Cat's Corner (SF Lindy Hop)",
+      "title": "Cat's Corner Wednesday Swing Dance Party",
+      "description": "",
+      "location": "435 Broadway, San Francisco",
+      "start": {
+        "dateTime": "2026-09-16T20:00:00"
+      },
+      "end": null,
+      "url": "https://www.catscornersf.com/dance-party/",
+      "styles": [
+        "swing_lindy"
       ],
       "status": "confirmed"
     },
@@ -3139,6 +3475,22 @@
       "url": "https://www.eventbrite.com/e/winning-the-vote-san-francisco-suffrage-walking-tour-trailblazer-special-tickets-1991299242639",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-09-17T18:30:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -3515,18 +3867,18 @@
       "status": "confirmed"
     },
     {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Bollywood Nights - Salesforce Park - Free",
-      "description": "**Bollywood Nights at Salesforce Park 🎉**\n\nJoin Rang De Bollywood for some high-energy, outdoor, bollywood fun! This event is sure to leave you feeling loved, lighter, and delighted in excitement after every session.\n🌈 Open to all ages, all levels, all backgrounds.\n✨ Come casual or dressed, no pressure!\n\n🎁 Free to attend – just bring your joy, your people, and your dancing feet!\n\n🚶🏼‍♂️‍➡️Register for free so we can prepare at rang.eventbrite.com\n\n🕔 5:30 – 7:00 PM – we’ll start with a beginner friendly dance lesson, followed by an open dance party!\n\n💫 This is a repeating event, happening every 1st and 3rd Friday of the month, May through October\nand you can register for as many dates as you like.\nRegister now: [rang.eventbrite.com](http://rang.eventbrite.com)\n\n**About Rang De Bollywood**\nHailing from the dream dance city of Mumbai and Amritsar, which is also home to Bollywood and Holy Vibes, our energetic, charismatic, and fun dance instructors-performers-entertainers, Manpreet (Certified in Indian Folk by India's Best and also an author) and Amit (percussionist, actor, dancer), have spread Indian dance music and moves across the length and breadth of India, USA, and Europe. Their recent performances were at National Center of Performing Arts in Mumbai and Herbst Theater in San Francisco.\n\n**Important Notes:**\n\n* Enter through transit center building and take the elevator to rooftop. We will be close to the elevator.\n* No solicitors allowed.\n* Classes might be video taped for marketing purposes.\n* All choreographies are Copyrighted and Original Works of Manpreet Komal/Rang De Bollywood.\n\n*\"I recently had the pleasure of attending Manpreet’s Bollywood dance class, and I must say, it was an absolute blast! Whether you're a complete beginner or an experienced dancer, this class caters to everyone's skill level. The highlight of the class was undoubtedly her teaching style. With a knack for breaking down complex steps into manageable chunks, even the most intricate routines felt attainable. The pacing was just right, ensuring that beginners didn't feel overwhelmed while keeping experts engaged. Highly recommend!\" — Kavneet Bindra*\n\n**We can't wait to dance together, see you soon!**",
-      "location": "salesforce park",
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Botmc Square Dance Dance",
+      "description": "",
+      "location": "Ashkenaz, 1317 San Pablo Avenue, Berkeley",
       "start": {
-        "dateTime": "2026-09-19T00:30:00.000Z"
+        "date": "2026-09-19"
       },
       "end": null,
-      "url": "https://www.meetup.com/iwanttodothatsf/events/314645513/",
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
       "styles": [
-        "bachata"
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -3559,22 +3911,6 @@
       "url": "https://www.meetup.com/singles-mingle-getting-people-together/events/316095212/",
       "styles": [
         "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "A Tribute to Fred Astaire",
-      "description": "A Tribute to Fred Astaire. Friday September 18. 7:30pm. Manny's at 3092 16th Street, San Francisco. Host: Robert Strom. Victor Alvarado (piano), Logan Rasmusson (bass), JR Rosales (drums) and Robert Strom (vocals).",
-      "location": "Manny's",
-      "start": {
-        "dateTime": "2026-09-19T02:30:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/the-fred-astaire-society/events/316202164/",
-      "styles": [
-        "west_coast_swing"
       ],
       "status": "confirmed"
     },
@@ -3665,7 +4001,7 @@
     {
       "source": "wix:bayshore_blues",
       "source_label": "Bayshore Blues",
-      "title": "Breakaway Blues: Social Dance to DJ'd Music \\[Partner Org Event\\] (Oakland)",
+      "title": "Breakaway Blues: Social Dance to DJ'd Music [Partner Org Event] (Oakland)",
       "description": "",
       "location": "",
       "start": {
@@ -3761,6 +4097,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Botmc Family Dance Dance",
+      "description": "",
+      "location": "Ashkenaz, 1317 San Pablo Avenue, Berkeley",
+      "start": {
+        "date": "2026-09-20"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wp_events_calendar:sf_tango_with_us",
       "source_label": "SF Tango With.Us",
       "title": "Che at Salesforce Park – Free Class & Live Music",
@@ -3775,6 +4127,22 @@
       "url": "https://sftangowith.us/event/che-at-salesforce-park-free-class-live-music-5/",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_sun",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Sunday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-09-20T17:00:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -3945,6 +4313,38 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "The Polish Club, 3040 22nd Street, San Francisco",
+      "start": {
+        "date": "2026-09-23"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-23"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wp_events_calendar:sf_tango_with_us",
       "source_label": "SF Tango With.Us",
       "title": "Tango dance classes with Diego and Alejandra at La Bruja",
@@ -3999,6 +4399,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:recurring:cats_corner",
+      "source_label": "Cat's Corner (SF Lindy Hop)",
+      "title": "Cat's Corner Wednesday Swing Dance Party",
+      "description": "",
+      "location": "435 Broadway, San Francisco",
+      "start": {
+        "dateTime": "2026-09-23T20:00:00"
+      },
+      "end": null,
+      "url": "https://www.catscornersf.com/dance-party/",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "Black Wellness is a Radical Act of Resistance",
@@ -4047,22 +4463,6 @@
       "status": "confirmed"
     },
     {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "TUFF SF: Folsom Street Kick Off",
-      "description": "Get your leather and boots",
-      "location": "1015 Folsom, San Francisco",
-      "start": {
-        "date": "2026-09-24"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/tuff-sf-folsom-street-kick-off-tickets-1998431910641",
-      "styles": [
-        "contra"
-      ],
-      "status": "confirmed"
-    },
-    {
       "source": "meetup",
       "source_label": "Meetup",
       "title": "ERIA SALSA & BACHATA | Singles Ages 25 and up",
@@ -4075,6 +4475,22 @@
       "url": "https://www.meetup.com/bay-area-speed-dating-mixers-matchmaking/events/315847634/",
       "styles": [
         "salsa"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-09-24T18:30:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -4129,32 +4545,16 @@
       "status": "confirmed"
     },
     {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "DAD FOLSOM FRIDAY - Sindri & Stefan Ways",
-      "description": "Feel the heat and get down to the beat with DAD on Folsom Street! Dark & dirty disco, electro, and house all night!",
-      "location": "F8 1192 Folsom, San Francisco",
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Square Dance",
+      "description": "",
+      "location": "Hillside Club, 2286 Cedar Street, Berkeley",
       "start": {
         "date": "2026-09-25"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/dad-folsom-friday-sindri-stefan-ways-tickets-1997282877853",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "PRIME - The San Francisco MEAT 2026",
-      "description": "PRIME - The San Francisco MEAT!",
-      "location": "Club Six - Both Floors!, San Francisco",
-      "start": {
-        "date": "2026-09-25"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/prime-the-san-francisco-meat-2026-tickets-1983682844788",
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
       "styles": [
         "contra"
       ],
@@ -4191,6 +4591,24 @@
       "url": "https://sftangowith.us/event/la-milonga-genesis-26-2-3/2026-09-25/",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "gcal_ical:nextgen_swing_wcs_norcal",
+      "source_label": "NextGen Swing Dance Club — Bay Area WCS Calendar",
+      "title": "[SF] Mission City Swing Workshop Weekender with Sean & Alyssa",
+      "description": "Details TBD - save the dates!<br><br><a href=\"https://www.facebook.com/events/3040-22nd-st-san-francisco-ca-united-states-california-94110/mission-city-swing-workshops-w-sean-alyssa-mckeever/1072184985202268/\">https://www.facebook.com/events/3040-22nd-st-san-francisco-ca-united-states-california-94110/mission-city-swing-workshops-w-sean-alyssa-mckeever/1072184985202268/</a>",
+      "location": "",
+      "start": {
+        "date": "2026-09-26"
+      },
+      "end": {
+        "date": "2026-09-28"
+      },
+      "url": "https://nextgenswingdance.com/calendar/",
+      "styles": [
+        "west_coast_swing"
       ],
       "status": "confirmed"
     },
@@ -4323,20 +4741,34 @@
       "status": "confirmed"
     },
     {
-      "source": "gcal_ical:nextgen_swing_wcs_norcal",
-      "source_label": "NextGen Swing Dance Club — Bay Area WCS Calendar",
-      "title": "[SF] Mission City Swing Workshop Weekender with Sean & Alyssa",
-      "description": "Details TBD - save the dates!<br><br><a href=\"https://www.facebook.com/events/3040-22nd-st-san-francisco-ca-united-states-california-94110/mission-city-swing-workshops-w-sean-alyssa-mckeever/1072184985202268/\">https://www.facebook.com/events/3040-22nd-st-san-francisco-ca-united-states-california-94110/mission-city-swing-workshops-w-sean-alyssa-mckeever/1072184985202268/</a>",
-      "location": "",
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "First United Methodist Church of Palo Alto, 625 Hamilton at Byron, Palo Alto",
       "start": {
         "date": "2026-09-26"
       },
-      "end": {
-        "date": "2026-09-28"
-      },
-      "url": "https://nextgenswingdance.com/calendar/",
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
       "styles": [
-        "west_coast_swing"
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English/Experienced Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-26"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -4459,6 +4891,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Country Line Dancing at Sausalito Certified Farmers Market",
+      "description": "Kick up your boots and join us for some fun country line dancing and good vibes at the farmers market!",
+      "location": "Dunphy Park, Sausalito",
+      "start": {
+        "date": "2026-09-27"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/country-line-dancing-at-sausalito-certified-farmers-market-tickets-1996170827681",
+      "styles": [
+        "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Hot Tea - Leather Edition 2026",
       "description": "Hot Tea Leather Edition returns for year 6 inside the fair on Folsom Sunday. Leather. Beats. Sweat. Unleash.",
       "location": "Audio Nightclub, San Francisco",
@@ -4468,21 +4916,21 @@
       "end": null,
       "url": "https://www.eventbrite.com/e/hot-tea-leather-edition-2026-tickets-1986369792521",
       "styles": [
-        "contra"
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
     {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Country Line Dancing at Sausalito Certified Farmers Market",
-      "description": "Kick up your boots and join us for some fun country line dancing and good vibes at the farmers market!",
-      "location": "Dunphy Park, Sausalito",
+      "source": "custom:recurring:sundance_saloon_sun",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Sunday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
       "start": {
-        "date": "2026-09-27"
+        "dateTime": "2026-09-27T17:00:00"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/country-line-dancing-at-sausalito-certified-farmers-market-tickets-1996170827681",
+      "url": "https://www.sundancesaloon.org",
       "styles": [
         "line_dance_country"
       ],
@@ -4557,6 +5005,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "All Saints Episcopal Church, 555 Waverley St, Palo Alto",
+      "start": {
+        "date": "2026-09-29"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wp_events_calendar:sf_tango_with_us",
       "source_label": "SF Tango With.Us",
       "title": "El Valenciano Milonga w/ DJ Elle",
@@ -4571,6 +5035,22 @@
       "url": "https://sftangowith.us/event/el-valenciano-milonga-26-40/",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-09-30"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -4629,6 +5109,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:recurring:cats_corner",
+      "source_label": "Cat's Corner (SF Lindy Hop)",
+      "title": "Cat's Corner Wednesday Swing Dance Party",
+      "description": "",
+      "location": "435 Broadway, San Francisco",
+      "start": {
+        "dateTime": "2026-09-30T20:00:00"
+      },
+      "end": null,
+      "url": "https://www.catscornersf.com/dance-party/",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "IE North America Masters Interview Week II – San Francisco",
@@ -4641,6 +5137,22 @@
       "url": "https://www.eventbrite.es/e/ie-north-america-masters-interview-week-ii-san-francisco-tickets-1992937151669",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-10-01T18:30:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -4675,6 +5187,22 @@
       "url": "https://www.eventbrite.com/e/quit-your-day-job-presents-out-of-office-tickets-1996191953870",
       "styles": [
         "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "St. Mark's Episcopal Church, 600 Colorado Avenue, Palo Alto",
+      "start": {
+        "date": "2026-10-02"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -4833,6 +5361,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:recurring:sundance_saloon_sun",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Sunday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-10-04T17:00:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "Salsa Classes October 2026 4 Week Progressive  Salsa Dance Lessons SF",
@@ -4845,6 +5389,22 @@
       "url": "https://www.eventbrite.com/e/salsa-classes-october-2026-4-week-progressive-salsa-dance-lessons-sf-tickets-1998435570588",
       "styles": [
         "salsa"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "All Saints Episcopal Church, 555 Waverley St, Palo Alto",
+      "start": {
+        "date": "2026-10-06"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -4877,6 +5437,54 @@
       "url": "https://www.eventbrite.com/e/bachata-technique-choreo-tickets-1993237803928",
       "styles": [
         "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-10-07"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:cats_corner",
+      "source_label": "Cat's Corner (SF Lindy Hop)",
+      "title": "Cat's Corner Wednesday Swing Dance Party",
+      "description": "",
+      "location": "435 Broadway, San Francisco",
+      "start": {
+        "dateTime": "2026-10-07T20:00:00"
+      },
+      "end": null,
+      "url": "https://www.catscornersf.com/dance-party/",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-10-08T18:30:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -4931,6 +5539,38 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Maga (Scenarios & Get Physical)  at Madarae",
+      "description": "Maga  at Madarae  San Francisco",
+      "location": "Madarae, San Francisco",
+      "start": {
+        "date": "2026-10-10"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/maga-scenarios-get-physical-at-madarae-tickets-1993499299067",
+      "styles": [
+        "ballroom"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "First United Methodist Church of Palo Alto, 625 Hamilton at Byron, Palo Alto",
+      "start": {
+        "date": "2026-10-10"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "YBG Dance Day at YBG Festival",
       "description": "FREE day of outdoor dance classes in San Francisco, only at Yerba Buena Gardens Festival",
       "location": "Yerba Buena Gardens, San Francisco",
@@ -4941,6 +5581,70 @@
       "url": "https://www.eventbrite.com/e/ybg-dance-day-at-ybg-festival-tickets-1986358348291",
       "styles": [
         "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "First Unitarian Church of San Jose, 160 N 3rd St, San Jose",
+      "start": {
+        "date": "2026-10-11"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:sundance_saloon_sun",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Sunday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "dateTime": "2026-10-11T17:00:00"
+      },
+      "end": null,
+      "url": "https://www.sundancesaloon.org",
+      "styles": [
+        "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "The Polish Club, 3040 22nd Street, San Francisco",
+      "start": {
+        "date": "2026-10-14"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:recurring:cats_corner",
+      "source_label": "Cat's Corner (SF Lindy Hop)",
+      "title": "Cat's Corner Wednesday Swing Dance Party",
+      "description": "",
+      "location": "435 Broadway, San Francisco",
+      "start": {
+        "dateTime": "2026-10-14T20:00:00"
+      },
+      "end": null,
+      "url": "https://www.catscornersf.com/dance-party/",
+      "styles": [
+        "swing_lindy"
       ],
       "status": "confirmed"
     },
@@ -4993,16 +5697,32 @@
       "status": "confirmed"
     },
     {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Yamagucci with Riche & Amiss // 360 SET",
-      "description": "An intimate dance floor experience with Yamagucci, Riche, and Amiss, in the round. Bangers all night.",
-      "location": "The Foundry SF, San Francisco",
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Welcome Dance For The 1726 Ball Weekend. Dance",
+      "description": "",
+      "location": "Arlington Community Church, 52 Arlington Avenue, Kensington",
       "start": {
         "date": "2026-10-16"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/yamagucci-with-riche-amiss-360-set-tickets-1996769860404",
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Square Dance",
+      "description": "",
+      "location": "Hillside Club, 2286 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-10-16"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
       "styles": [
         "contra"
       ],
@@ -5021,6 +5741,22 @@
       "url": "https://www.eventbrite.com/e/lavay-smith-and-her-red-hot-skillet-lickers-tickets-1991518614787",
       "styles": [
         "blues"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "1726 Ball Dance",
+      "description": "",
+      "location": "Albany Veteran's Memorial Building, 1325 Portland Avenue (off Key RouteBlvd), Albany",
+      "start": {
+        "date": "2026-10-17"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -5059,6 +5795,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "All Saints Episcopal Church, 555 Waverley St, Palo Alto",
+      "start": {
+        "date": "2026-10-20"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "Food Allergy Fund Innovation Forum - San Francisco",
@@ -5071,6 +5823,22 @@
       "url": "https://www.eventbrite.com/e/food-allergy-fund-innovation-forum-san-francisco-tickets-1992656600533",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "Christ Church East Bay, 2138 Cedar Street, Berkeley",
+      "start": {
+        "date": "2026-10-21"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -5135,6 +5903,22 @@
       "url": "https://www.eventbrite.com/e/maire-ni-chathasaigh-chris-newman-in-concert-tickets-1998070808575",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "First United Methodist Church of Palo Alto, 625 Hamilton at Byron, Palo Alto",
+      "start": {
+        "date": "2026-10-24"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -5263,6 +6047,38 @@
       "url": "https://www.eventbrite.com/e/the-official-san-francisco-halloween-pub-crawl-tickets-1983732312748",
       "styles": [
         "blues"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "English Dance",
+      "description": "",
+      "location": "St. Mark's Episcopal Church, 600 Colorado Avenue, Palo Alto",
+      "start": {
+        "date": "2026-10-30"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:bacds",
+      "source_label": "Bay Area Country Dance Society (BACDS)",
+      "title": "Contra Dance",
+      "description": "",
+      "location": "First United Methodist Church of Palo Alto, 625 Hamilton at Byron, Palo Alto",
+      "start": {
+        "date": "2026-10-31"
+      },
+      "end": null,
+      "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },

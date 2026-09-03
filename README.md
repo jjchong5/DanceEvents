@@ -57,20 +57,26 @@ with the right `platform:` — no new code needed, the matching template
 connector picks it up automatically. Otherwise it needs a small script under
 `src/connectors/custom/`, same output shape as `src/event_schema.py`.
 
-## Current source status (as of 2026-09-03 build)
+## Current source status (updated 2026-09-03, second pass)
+
+391 events live as of the last full `run_all.py` run, across all 11 styles.
 
 | Source | Status |
 |---|---|
 | NextGen Swing WCS calendar (gcal_ical) | Working — 500+ event feed, single richest source |
 | SF Tango With.Us (wp_events_calendar) | Working — itself aggregates many Bay Area tango venues |
+| BACDS contra/English calendar (custom) | Working — 21-35 events/month, itself aggregates ~11 Bay Area church-hall/community-center venues via its own venue-code legend |
+| Cat's Corner + Sundance Saloon (custom, recurring generator) | Working — fixed weekly recurrence, generated forward rather than scraped (neither site has a dated calendar at all) |
 | Bayshore Blues (wix) | Working |
-| Tip Top Ballroom | Needs custom connector — not a calendar-grid Wix page, static schedule table instead |
-| Golden City Dance Collective (Punchpass) | Deferred — schedule widget too irregular to parse reliably in v1 |
 | Eventbrite / Meetup (keyword search, all 11 styles) | Working |
 | Luma (discover feed, keyword-filtered) | Working but low yield — Luma skews tech events, not dance |
-| ~15 other researched venues (Cat's Corner, BAWDC, BACDS, etc.) | Not yet wired in — see `config/venues.yaml`'s bottom comment for the list |
+| Tip Top Ballroom | Deferred — real dated schedule exists but is mostly private kids/adult lesson bookings, not open socials; verbose per-entry markup not worth parsing yet |
+| Golden City Dance Collective (Punchpass) | Deferred — schedule widget too irregular to parse reliably |
+| BAWDC | Blocked — schedule page is gated behind reCAPTCHA even via rendering fetch, not automatable without a different approach |
+| ~10 other researched venues (Mission City Swing, La Bruja Tango, Arthur Murray, TangoMango, District Zouk, OmniZouk, etc.) | Not yet wired in — see `config/venues.yaml`'s bottom comment for the list |
 
-Not yet deployed to a live URL — see TODO for next step.
+Live now: https://claude.ai/code/artifact/f6d0a1e0-ded9-47ab-a4f2-544c41ee6fb0
+(an Artifact link — see "Deploying" below for a durable custom-domain option).
 
 ## Deploying
 

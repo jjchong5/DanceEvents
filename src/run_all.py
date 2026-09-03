@@ -20,6 +20,8 @@ CONNECTORS = [
     "src/connectors/eventbrite.py",
     "src/connectors/meetup.py",
     "src/connectors/luma.py",
+    "src/connectors/custom/bacds.py",
+    "src/connectors/custom/recurring.py",
 ]
 
 
