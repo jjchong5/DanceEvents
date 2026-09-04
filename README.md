@@ -75,11 +75,14 @@ connector picks it up automatically. Otherwise it needs a small script under
 | BAWDC | Blocked — schedule page is gated behind reCAPTCHA even via rendering fetch, not automatable without a different approach |
 | ~10 other researched venues (Mission City Swing, La Bruja Tango, Arthur Murray, TangoMango, District Zouk, OmniZouk, etc.) | Not yet wired in — see `config/venues.yaml`'s bottom comment for the list |
 
-Live now: https://claude.ai/code/artifact/f6d0a1e0-ded9-47ab-a4f2-544c41ee6fb0
-(an Artifact link — see "Deploying" below for a durable custom-domain option).
+**Live**: https://jjchong5.github.io/DanceEvents/
 
 ## Deploying
 
-Not yet decided/wired up. `site/` is a plain static folder (HTML + one JSON
-file) — deployable to any static host (GitHub Pages, Netlify, Vercel, etc.)
-with zero build step.
+Deployed via GitHub Pages, auto-redeploying on every push that touches
+`site/` (`.github/workflows/deploy.yml`). Pages only serves from a repo's
+root or `/docs` without a build step, but `site/` is deliberately kept
+separate from `src/`/`data/` (see ARCHITECTURE.md) — so instead of
+restructuring the repo, the workflow uses `actions/upload-pages-artifact`
+to publish just the `site/` folder's contents. To redeploy after a fresh
+`run_all.py`, just `git add site/events.json && git commit && git push`.
