@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-09-03T22:24:58.617459+00:00",
-  "count": 391,
+  "generated_at": "2026-09-05T00:15:07.390712+00:00",
+  "count": 403,
   "events": [
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2025-11-22"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Series August-Sept: Week 1",
+      "description": "\\*\\*First dance of the new 6-week class series!\\*\\* All new students are welcome to join! Location: Russian Center of San Francisco, 2460 Sutter St, San Francisco, CA 94115 Progressive series classes: L2 & L4 from 7-8pm L3 & Fundamentals & Points+ from 8-9pm New students are welcome! First week drop-in class allowed for only the Fundamentals class series. \\*This week we are offering our drop-in Points+ class! Must have a WSDC point in order to participate. $20 pay at the registration desk upon arrival. We are hosting a contest sponsored by Boogie by the Bay! Dance from 9pm – midnight. The dance party is open to everyone to attend!",
+      "location": "Russian Center of San Francisco, 2460 Sutter St, San Francisco, CA 94115",
+      "start": {
+        "date": "2026-08-19"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Series August-Sept: Week 2",
+      "description": "\\*\\*2nd dance of the new 6-week class series!\\*\\* All new students are still welcome to join for the full series (no drop-in classes allowed)! Location: Russian Center of San Francisco, 2460 Sutter St, San Francisco, CA 94115 Progressive series classes: L2 & L4 from 7-8pm L3 & Fundamentals & Points+ from 8-9pm \\*This week we are offering our drop-in Points+ class! Must have a WSDC point in order to participate. $20 pay at the registration desk upon arrival. We are hosting a contest sponsored by Boogie by the Bay! Dance from 9pm – midnight. The dance party is open to everyone to attend!",
+      "location": "Russian Center of San Francisco, 2460 Sutter St, San Francisco, CA 94115",
+      "start": {
+        "date": "2026-08-26"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-08-30"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
     {
       "source": "custom:bacds",
       "source_label": "Bay Area Country Dance Society (BACDS)",
@@ -85,184 +149,6 @@
       "url": "https://sftangowith.us/event/tango-fundamentals-practica-with-ramada-elaine-4/2026-09-02/",
       "styles": [
         "argentine_tango"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "gcal_ical:nextgen_swing_wcs_norcal",
-      "source_label": "NextGen Swing Dance Club — Bay Area WCS Calendar",
-      "title": "[San Jose] South Bay Dance Fling",
-      "description": "For more information:<br><br><a href=\"https://sbdf.dance\" target=\"_blank\">https://sbdf.dance</a><br><br><p>Thursday Sept 3</p><ul><li>7 pm Opening WCS workshop with Ronnie DeBenedetta</li><li>8 pm Social WCS dancing</li></ul><p>Friday Sept 4</p><ul><li>11 am - 6 pm WCS workshops</li><li>8:30 pm Pro-Am Routines, All-American J&amp;J</li><li>9:30 pm - midnight Social WCS dancing with DJ Ruben</li></ul><p>Saturday Sept 5</p><ul><li>10 am - 1 pm, 5 pm WCS workshops</li><li>1 pm - 5 pm WSDC J&amp;J prelims and semis</li><li>7 pm WCS workshop</li><li>8 pm - 2 am Social WCS dancing with DJ Kathleen Sun</li></ul><p>Sunday Sept 6</p><ul><li>11 am Strictly Swing, Pro-Am Strictly Swing</li><li>2 pm - 4 pm WSDC J&amp;J finals</li><li>7 pm - late Social dancing mix</li></ul>",
-      "location": "",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": {
-        "date": "2026-09-07"
-      },
-      "url": "https://nextgenswingdance.com/calendar/",
-      "styles": [
-        "west_coast_swing"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Downtown First Thursdays | Carnaval SF Takeover | Sep. 3, 2026",
-      "description": "Downtown SF's FREE massive monthly street party! DJs, dancing, drag, and all ages fun every first Thursday of the month.",
-      "location": "Natoma Cabana, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/downtown-first-thursdays-carnaval-sf-takeover-sep-3-2026-tickets-1980043168418",
-      "styles": [
-        "salsa"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Latin Thursdays at Copacabana SF! Salsa, Cumbia, Merengue, Bachata and More",
-      "description": "Join us for an unforgettable night with DJ Erwin! Get ready for a night full of Latin rhythms, dancing, and nonstop energy at Copacabana SF!",
-      "location": "358 Ocean Ave, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/latin-thursdays-at-copacabana-sf-salsa-cumbia-merengue-bachata-and-more-tickets-1999416826551",
-      "styles": [
-        "bachata"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "GREEICY: 4 Week Dance Class to her \"Mal o Bien\", then Club Performance!",
-      "description": "ALL LEVELS WELCOME to this 4-week dance class journey to learn \"Mal o Bien\" then perform at a SF club!",
-      "location": "Smuin Contemporary Ballet | Smuin Center for Dance, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/greeicy-4-week-dance-class-to-her-mal-o-bien-then-club-performance-tickets-1993034262129",
-      "styles": [
-        "kizomba"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "GOOD VIBEZZ Thursdays",
-      "description": "Throwback Thursdays with reggaeton & hip-hop — straight classics only. If you know the words, you already know the vibe.",
-      "location": "The Valencia Room, SAN FRANCISCO",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/good-vibezz-thursdays-tickets-1979702510501",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Function 500 w/ jaag & BROKE LEG",
-      "description": "Function 500 w/ jaag & BROKE LEG",
-      "location": "Public Works, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/function-500-w-jaag-broke-leg-tickets-1998388086562",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Dance Thursdays | Jazz Funk (Beginner) with Emmanuel Hernandez",
-      "description": "Mission Rock, we're back! Join us for another season of FREE dance classes this spring!",
-      "location": "China Basin Park, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/dance-thursdays-jazz-funk-beginner-with-emmanuel-hernandez-tickets-1992850532589",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "TOGETHER (New Monthly - First Thursdays)",
-      "description": "First Thursdays Hottest After Party every month celebrating San Francisco . able Reservations: Call/Text 415-969-0196",
-      "location": "Hawthorn, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/together-new-monthly-first-thursdays-tickets-1998463074854",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Cha-Cha 4 week group class series!",
-      "description": "Learn the basics of Social Cha-cha dance! This is a great series for beginners and people new to the genre. Join us for a progressive class!",
-      "location": "1275 Connecticut St, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/cha-cha-4-week-group-class-series-tickets-1999296416401",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "DOWNTOWN FIRST THURSDAYS OFFICIAL AFTER PARTY - SF'S #1 STREET PARTY",
-      "description": "DOWNTOWN FIRST THURSDAY OFFICIAL PARTY & AFTER-PARTY",
-      "location": "Madarae, San Francisco",
-      "start": {
-        "date": "2026-09-03"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/downtown-first-thursdays-official-after-party-sfs-1-street-party-tickets-1994899179146",
-      "styles": [
-        "ballroom"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "custom:recurring:sundance_saloon_thu",
-      "source_label": "Sundance Saloon",
-      "title": "Sundance Saloon — Thursday Country/Line Dancing",
-      "description": "",
-      "location": "550 Barneveld Ave, San Francisco",
-      "start": {
-        "dateTime": "2026-09-03T18:30:00"
-      },
-      "end": null,
-      "url": "https://www.sundancesaloon.org",
-      "styles": [
-        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -367,22 +253,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "CALAVERA",
-      "description": "Peace Treaty collective hosts events for the gays, girls, and allies.",
-      "location": "Monarch, San Francisco",
-      "start": {
-        "date": "2026-09-04"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/calavera-tickets-1998652911661",
-      "styles": [
-        "bachata"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "FUEGO FRIDAYS at Copacabana SF !!!",
       "description": "Join us for a night full of Salsa, Cumbia, Merengue,  Bachata and More! Live band and DJ all night!",
       "location": "358 Ocean Ave, San Francisco",
@@ -447,6 +317,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Sunset Groove Yoga & Dance ✨",
+      "description": "Leave work behind and get out to the beach on Friday night!  It's the most beautiful, life-giving place to be at the end of your week ✨",
+      "location": "Baker Beach, San Francisco",
+      "start": {
+        "date": "2026-09-04"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/sunset-groove-yoga-dance-tickets-1998496694411",
+      "styles": [
+        "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "LOVE LANGUAGE RNB & HIP HOP @ ZOË 10PM",
       "description": "YOUR SOULFUL ESCAPE",
       "location": "ZOË Cocktail Bar & Bites, San Francisco",
@@ -463,22 +349,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "Dirty Pop! Bops & Throwbacks",
-      "description": "Dirty Pop! brings throwback bops, pop favorites, and smooth slow jams together for a fun, nostalgic night at Bamboo Hut.",
-      "location": "Bamboo Hut, San Francisco",
-      "start": {
-        "date": "2026-09-04"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/dirty-pop-bops-throwbacks-tickets-1988257326185",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "Latino Fridays at The Grand Nightclub 9.4.26",
       "description": "Join us at The Grand for Latino Fridays! Get ready to dance the night away to your favorite Reggaeton, Hip Hop, Top 40 Club Anthems!",
       "location": "The Grand, San Francisco",
@@ -487,6 +357,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/latino-fridays-at-the-grand-nightclub-9426-tickets-1998384774656",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Dirty Pop! Bops & Throwbacks",
+      "description": "Dirty Pop! brings throwback bops, pop favorites, and smooth slow jams together for a fun, nostalgic night at Bamboo Hut.",
+      "location": "Bamboo Hut, San Francisco",
+      "start": {
+        "date": "2026-09-04"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/dirty-pop-bops-throwbacks-tickets-1988257326185",
       "styles": [
         "swing_lindy"
       ],
@@ -585,102 +471,6 @@
       "url": "https://bacds.org/dance-scheduler/calendars/2026/09",
       "styles": [
         "contra"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Ballroom- Waltz Class",
-      "description": "Learn to Waltz with Instructor Suzie Hardt. No partner needed!\n\nNo experience necessary!\nAll levels.\n\nGet up to Speed! Arrive at 6:15PM for a mini Waltz review lesson\nClass starts at 6:30PM\n\n**DROP IN:** $20/class\nOR Purchase a **CLASS PACK** at a discounted rate!\n[https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/7LVBIZ76RNNEMXKXSC6ABR7W?src=embed](https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/7LVBIZ76RNNEMXKXSC6ABR7W?src=embed)",
-      "location": "Hidden City Ballroom",
-      "start": {
-        "dateTime": "2026-09-04T01:30:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/come-dance-marin/events/316124132/",
-      "styles": [
-        "salsa"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Thursdays Bachata Dance Classes in San Mateo",
-      "description": "**EVERY THURSDAY:**\n7pm - 8pm Bachata Pre-Intermediate Level\n8pm - 9pm Bachata Intermediate Level\n9pm Practice Time\n\n**CLASS LOCATION:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**Beginner Level Class:** In this class you will learn the fundamentals of bachata. The basic footwork, turns, body movements and how to lead/follow to feel comfortable dancing with a partner, be able to improvise and get you ready for the social dance floor!\n\n**Intermediate Level Class:** This is the right class if you have been taking consistently our **Pre-Intermediate Level Class for a period of at least 1 year (this will depend on your pace of learning) or by the teachers recommendation.** In this class you will learn more intricate patterns, turns, arm styling, body isolations and musicality, all while building the confidence and vocabulary you need to feel even better dancing on the social floor!\n\n**PRICE PER PERSON:**\n**New Student 7 Day - 7 Class Intro Pass: $69** (Save up to $176 total, compared to purchasing individual classes) or\n**Class Drop-ins:**\n\\- Single Session: $35\n\\- Two Sessions Same Day: $60 \\(Save $10 total\\)\n\n**BOOKING INFORMATION:**\nOnline pre-registration required:\n[REGISTER HERE](https://clients.mindbodyonline.com/classic/ws?studioid=38698&stype=-2&subTab=info)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• Face Masks are Now Optional (but Recommended).\n\n• You can come by yourself or with a partner.\n\n• No special clothes are required, what feels comfortable for you is good.\n\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n\n• Online Registration & Booking Recommended.",
-      "location": "Motion Arts Center",
-      "start": {
-        "dateTime": "2026-09-04T02:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/salsa-bachata-group-classes-dance-party-in-san-mateo/events/316124504/",
-      "styles": [
-        "bachata"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Thursdays Bachata Classes in San Mateo",
-      "description": "**EVERY THURSDAY:**\n7pm - 8pm Bachata Beginner Level\n8pm - 9pm Bachata Intermediate Level\n9pm Practice Time\n\n**CLASS LOCATION:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**Beginner Level Class:** In this class you will learn the fundamentals of bachata. The basic footwork, turns, body movements and how to lead/follow to feel comfortable dancing with a partner, be able to improvise and get you ready for the social dance floor!\n\n**Intermediate Level Class:** This is the right class if you have been taking consistently our **Pre-Intermediate Level Class for a period of at least 1 year (this will depend on your pace of learning) or by the teachers recommendation.** In this class you will learn more intricate patterns, turns, arm styling, body isolations and musicality, all while building the confidence and vocabulary you need to feel even better dancing on the social floor!\n\n**PRICE PER PERSON:**\n**New Student 7 Day - 7 Class Intro Pass: $69** (Save up to $176 total, compared to purchasing individual classes) or\n**Class Drop-ins:**\n\\- Single Session: $35\n\\- Two Sessions Same Day: $60 \\(Save $10 total\\)\n\n**BOOKING INFORMATION:**\n\n[REGISTER HERE](https://clients.mindbodyonline.com/classic/ws?studioid=38698&stype=-2&subTab=info)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• Face Masks are Now Optional (but Recommended).\n\n• You can come by yourself or with a partner.\n\n• No special clothes are required, what feels comfortable for you is good.\n\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n\n• Online Registration & Booking Required.",
-      "location": "Motion Arts Center",
-      "start": {
-        "dateTime": "2026-09-04T02:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/latin-ballroom-dance-classes-meetup-in-san-mateo/events/316124503/",
-      "styles": [
-        "bachata"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Swing Lessons + Social Dancing every Thurs. ~ Oakland ~ Veterans Memorial Hall",
-      "description": "",
-      "location": "",
-      "start": {
-        "dateTime": "2026-09-04T02:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/bay-area-dancing-for-singles-and-couples/events/316124488/",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Mixer & Networking Meetup",
-      "description": "This is a great opportunity to meet new people and make new connections.\n\nFeel free to bring a friend or join solo. Everyone is welcome.\n\nThe location will be updated based on the RSVP numbers.\n\nPlease DM if you have any questions.\n\nCome network with us!",
-      "location": "Rye Cocktail Bar",
-      "start": {
-        "dateTime": "2026-09-04T02:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/sf-social-mixers-and-networking/events/316092238/",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "First Thursday Set Dancing (San Francisco)",
-      "description": "It's the first Thursday of the month. What does that mean? Fast and furious Irish set dancing in San Francisco, of course! Dancing starts earlier (**8pm**) and goes longer – three solid hours of music, dancing, and fun.\n\nWe have a different band performing live traditional Irish music for us each week. Check back here later to find out who this week's performers are!\n\nTypical attendance is 15-25 dancers. (Note that the RSVP count on Meetup doesn't reflect the actual number attending – these events are advertised in numerous places.)\n\n**COVID-19 Policy:** **Boosted vaccination is MANDATORY.** Additionally, if you are displaying any symptoms of illness or if you feel under the weather, we kindly ask that you please remain at home and come back another time - there will be dancing again on the following Thursday!\n\n**Cost:** $10. If you are able to contribute more, it all goes to the musicians and is greatly appreciated.",
-      "location": "The Plough and the Stars",
-      "start": {
-        "dateTime": "2026-09-04T03:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/irishdance/events/316124858/",
-      "styles": [
-        "swing_lindy"
       ],
       "status": "confirmed"
     },
@@ -785,6 +575,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Latin Thursdays at Copacabana SF! Salsa, Cumbia, Merengue, Bachata and More",
+      "description": "Join us for an unforgettable night with DJ Erwin! Get ready for a night full of Latin rhythms, dancing, and nonstop energy at Copacabana SF!",
+      "location": "358 Ocean Ave, San Francisco",
+      "start": {
+        "date": "2026-09-05"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/latin-thursdays-at-copacabana-sf-salsa-cumbia-merengue-bachata-and-more-tickets-1999725202913",
+      "styles": [
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "MAXXXIMUS: WANTED DJ YAGO LOURENÇO Labor Day Weekend 'til 3AM",
       "description": "MAXXXIMUS presents: WANTED DJ YAGO LOURENÇO Circuit Party Labor Day Weekend Sat Sept 5th 'til 3AM After Hours at Beaux in Castro!",
       "location": "Beaux, San Francisco",
@@ -881,38 +687,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "Princess: GAGATHON w/ JEWELS SPARKLES + Dj Mark Kanemura",
-      "description": "PRINCESSA DISCO-POP DANCE PARTY AND DRAG SPECTACULAR\nFEATURING JEWELS SPARKLES  + DJ MARK KANEMURA. Doors at 9:30pm.",
-      "location": "OASIS, San Francisco",
-      "start": {
-        "date": "2026-09-05"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/princess-gagathon-w-jewels-sparkles-dj-mark-kanemura-tickets-1992224138026",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "Hawthorn feat. Candee Beats + FUZE Collective Takeover",
-      "description": "Table Reservations: Call/Text 415-969-0196",
-      "location": "Hawthorn, San Francisco",
-      "start": {
-        "date": "2026-09-05"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/hawthorn-feat-candee-beats-fuze-collective-takeover-tickets-1998471767855",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "Bootie Mashup Classics: 23-Year Anniversary",
       "description": "We're celebrating 23 years with our most classic and viral mashups!",
       "location": "Cat Club, San Francisco",
@@ -961,22 +735,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "HONKY-TONK SOCIAL featuring Roadrunners",
-      "description": "Join us Saturday, Sept 5th for an evening of Americana, country rock, outlaws, city-billies, and $3 whiskey shot drinkin’ shots!",
-      "location": "The Plough and the Stars, San Francisco",
-      "start": {
-        "date": "2026-09-05"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/honky-tonk-social-featuring-roadrunners-tickets-1998934107726",
-      "styles": [
-        "line_dance_country"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "\"NOCHE DE REGGAETON\" SAN FRANCISCO LATIN NIGHT | TWO DANCE FLOORS",
       "description": "HOTTEST LATIN NIGHT PARTY IN SAN FRANCISCO | THE BEST NEW N OLD SCHOOL REGGAETON  HITS + OUTDOOR PATIO +FOOD STAND AT THE ENDUP SF TILL 4am",
       "location": "The EndUp, San Francisco",
@@ -985,6 +743,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/noche-de-reggaeton-san-francisco-latin-night-two-dance-floors-tickets-1999462065863",
+      "styles": [
+        "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "HONKY-TONK SOCIAL featuring Roadrunners",
+      "description": "Join us Saturday, Sept 5th for an evening of Americana, country rock, outlaws, city-billies, and $3 whiskey shot drinkin’ shots!",
+      "location": "The Plough and the Stars, San Francisco",
+      "start": {
+        "date": "2026-09-05"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/honky-tonk-social-featuring-roadrunners-tickets-1998934107726",
       "styles": [
         "line_dance_country"
       ],
@@ -1002,23 +776,7 @@
       "end": null,
       "url": "https://www.meetup.com/dancersmeltingpot/events/316135231/",
       "styles": [
-        "bachata"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Bollywood Nights at Salesforce Park - Free",
-      "description": "**Bollywood Nights at Salesforce Park 🎉**\n\nJoin Rang De Bollywood for some high-energy, outdoor, bollywood fun! This event is sure to leave you feeling loved, lighter, and delighted in excitement after every session.\n🌈 Open to all ages, all levels, all backgrounds.\n✨ Come casual or dressed, no pressure!\n\n🎁 Free to attend – just bring your joy, your people, and your dancing feet!\n\n🚶🏼‍♂️‍➡️Register for free so we can prepare at rang.eventbrite.com\n\n🕔 5:30 – 7:00 PM – we’ll start with a beginner friendly dance lesson, followed by an open dance party!\n\n💫 This is a repeating event, happening every 1st and 3rd Friday of the month, May through October\nand you can register for as many dates as you like.\nRegister now: [rang.eventbrite.com](http://rang.eventbrite.com)\n\n**About Rang De Bollywood**\nHailing from the dream dance city of Mumbai and Amritsar, which is also home to Bollywood and Holy Vibes, our energetic, charismatic, and fun dance instructors-performers-entertainers, Manpreet (Certified in Indian Folk by India's Best and also an author) and Amit (percussionist, actor, dancer), have spread Indian dance music and moves across the length and breadth of India, USA, and Europe. Their recent performances were at National Center of Performing Arts in Mumbai and Herbst Theater in San Francisco.\n\n**Important Notes:**\n\n* Enter through transit center building and take the elevator to rooftop. We will be close to the elevator.\n* No solicitors allowed.\n* Classes might be video taped for marketing purposes.\n* All choreographies are Copyrighted and Original Works of Manpreet Komal/Rang De Bollywood.\n\n*\"I recently had the pleasure of attending Manpreet’s Bollywood dance class, and I must say, it was an absolute blast! Whether you're a complete beginner or an experienced dancer, this class caters to everyone's skill level. The highlight of the class was undoubtedly her teaching style. With a knack for breaking down complex steps into manageable chunks, even the most intricate routines felt attainable. The pacing was just right, ensuring that beginners didn't feel overwhelmed while keeping experts engaged. Highly recommend!\" — Kavneet Bindra*\n\n**We can't wait to dance together, see you soon!**",
-      "location": "salesforce park",
-      "start": {
-        "dateTime": "2026-09-05T00:30:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/mountain-view-dance-workshops/events/315970381/",
-      "styles": [
-        "bachata"
+        "kizomba"
       ],
       "status": "confirmed"
     },
@@ -1041,6 +799,22 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
+      "title": "Latin Night Classes & Social Dance Party!",
+      "description": "Let’s turn your Friday nights into a vibe! Join us for our beginner friendly classes and then the lights dim, the music turns up, and Downtown San Mateo transforms into your dance playground. 💃✨\n\nThis weekly social is designed to help you **build confidence, improve your dancing, and have fun in a welcoming, supportive environment**. We’ll be dancing to **Salsa or Bachata**, with something for everyone — from beginners to experienced level dancers.\n💥 **Theme Nights:**\n**• 1st & 3rd Fridays – Bachata Social**\n**• 2nd & 4th Fridays – Salsa Social**\n✨ **What to Expect Every Friday**\n\n* Beginner-friendly classes with fantastic teachers!\n* A friendly, inclusive atmosphere — no partner needed\n* Light snacks and drinks provided\n* Bring your friends and share the joy of dancing\n* The dance studio has air conditioning, a beautiful hardwood floor, colorful mood ambient lighting and a high quality sound system.\n\n🌟 **FRIDAYS SCHEDULE:**\n**7:00–8:00PM** – **Salsa/Bachata Solo Basics (All Levels)**\n**8:00–9:00PM – Bachata Class + 9:00PM Social Party (1st & 3rd Fridays)**\n**8:00–9:00PM – Salsa Class + 9:00PM Social Party (2nd & 4th Fridays)**\n**Teachers:** Diego & Jennifer\n\n**TICKET PRICE:**\n$35 – One Class or $45 Class + Party\n$60 – Two Classes (same day only, includes party)\n$10 Dance Party Only\n**\\*Social Dance Party is included when you take a class.**\n\n**[REGISTER HERE](https://motionartscenter.com/latin-night-dance-party/)**\n\n**LOCATION:** 217 South Claremont Street, San Mateo, CA 94401\n\n**BOOKING INFORMATION:**\n\\*Each attendee must register individually. Limited Spaces Available, Online Sign Up Required.\n\\*This event is for adults ages 18+.\n\\*No partner necessary to attend, the teacher will rotate students during the class :-)\n\nDon't miss this chance to let loose, dance your heart out, whether you're flying solo or bringing your entire crew, everyone is welcome to join the fiesta!🎊",
+      "location": "Motion Arts Center",
+      "start": {
+        "dateTime": "2026-09-05T02:00:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/salsa-bachata-group-classes-dance-party-in-san-mateo/events/316423114/",
+      "styles": [
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
       "title": "Bachata Lab",
       "description": "## Welcome to **Bachata Lab**! 💃🏾🕺\n\nWe're running three concurrent levels Beg/Int/Adv. The focus will be on Bachata Sensual and Fusion. All classes follow the same format with 8pm-8:30pm focussing on footwork and body movement and 8:30pm-9:30pm focussing on partnerwork. Social dancing from 9:30pm-1:00am!\n\n📍 1830 17th Street, San Francisco, CA 94103\n\nFollow us on Instagram!\n\n[https://www.instagram.com/bachata_lab/](https://www.instagram.com/bachata_lab/ \"https://www.instagram.com/bachata_lab/\")\n\n#### Attire\n\nThere will be a shoe cleaning station at the entrance to the studio for dance shoes worn on the street!\n\n#### Schedule\n\n📅 8pm: Beginners\n📅 8pm: Intermediate\n📅 8pm: Advanced\n📅 9.30pm-1am: Social Dancing\n\n#### Tickets\n\nOn-the-door tickets are available!\n\n#### Fuego Discount Code\n\nDiscount code (10% off) for Fuego dance shoes and other merchandise!\n\nDiscount Code: BACHATALAB\nDiscount Link: [https://bit.ly/4fE4KHb](https://bit.ly/4fE4KHb \"https://bit.ly/4fE4KHb\")\n\n#### Instructors\n\nTina Wang: [https://www.instagram.com/tinawang320/](https://www.instagram.com/tinawang320/ \"https://www.instagram.com/tinawang320/\")\nAlan Zhao: [https://www.instagram.com/alan_j_zhao/](https://www.instagram.com/alan_j_zhao/ \"https://www.instagram.com/alan_j_zhao/\")\nRyan-Rhys Griffiths: [https://www.instagram.com/ryan__rhys321/](https://www.instagram.com/ryan__rhys321/ \"https://www.instagram.com/ryan__rhys321/\")",
       "location": "Smuin Ballets SF",
@@ -1051,22 +825,6 @@
       "url": "https://www.meetup.com/san-francisco-bachata-classes-and-social-dancing/events/316136385/",
       "styles": [
         "salsa"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Fridays Bachata Dance Classes in San Mateo",
-      "description": "**EVERY FRIDAY:**\n8pm - 9pm Bachata Beginner Level\n\n**CLASS LOCATION:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**PRICE PER PERSON:**\n**New Student 7 Day - 7 Class Intro Pass: $69** (Save up to $176 total, compared to purchasing individual classes) or\n**Class Drop-ins:**\n\\- Single Session: $35\n\n**BOOKING INFORMATION:**\nOnline pre-registration required:\n[REGISTER HERE](https://clients.mindbodyonline.com/classic/ws?studioid=38698&stype=-2&subTab=info)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• Face Masks are Now Optional (but Recommended).\n\n• You can come by yourself or with a partner.\n\n• No special clothes are required, what feels comfortable for you is good.\n\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n\n• Online Registration & Booking Recommended.",
-      "location": "Motion Arts Center",
-      "start": {
-        "dateTime": "2026-09-05T03:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/salsa-bachata-group-classes-dance-party-in-san-mateo/events/316136374/",
-      "styles": [
-        "bachata"
       ],
       "status": "confirmed"
     },
@@ -1089,16 +847,16 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
-      "title": "Afrobeats Vibes Oakland 1st Friday September 4th from 9 pm to 2 am",
-      "description": "Join us at the “Afrobeats Vibe - Oakland 1st Friday”\n\nLabor Day Weekend Kick-off\n\nWhen: Friday, Sep. 4th\n\nTime: 9 pm to 2 am\n\nWhere: Lux Oakland\n1100 Franklin St. Oakland. Ca. 94607\n\nWith Big2Wice Birthday Celebration\n\nLive Performances by Bad Boi Mali, and more\n\nSounds by DJ TayBottlez\n\nHosted by: FlyBoy Promotion , ETCs\n\nTickets available at AfrobeatsVibeOakland.Eventbrite.com\n\nAge: Must 21 yrs and older to attend\n\nInvite urs friends and loved ones\nThanks, you",
-      "location": "Lux Pub & Club",
+      "title": "Fridays Bachata Dance Classes in San Mateo",
+      "description": "**EVERY FRIDAY:**\n8pm - 9pm Bachata Beginner Level\n\n**CLASS LOCATION:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**PRICE PER PERSON:**\n**New Student 7 Day - 7 Class Intro Pass: $69** (Save up to $176 total, compared to purchasing individual classes) or\n**Class Drop-ins:**\n\\- Single Session: $35\n\n**BOOKING INFORMATION:**\nOnline pre-registration required:\n[REGISTER HERE](https://clients.mindbodyonline.com/classic/ws?studioid=38698&stype=-2&subTab=info)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• Face Masks are Now Optional (but Recommended).\n\n• You can come by yourself or with a partner.\n\n• No special clothes are required, what feels comfortable for you is good.\n\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n\n• Online Registration & Booking Recommended.",
+      "location": "Motion Arts Center",
       "start": {
-        "dateTime": "2026-09-05T04:00:00.000Z"
+        "dateTime": "2026-09-05T03:00:00.000Z"
       },
       "end": null,
-      "url": "https://www.meetup.com/bay-area-dining-out-dancing-culture-meetup-group/events/316366065/",
+      "url": "https://www.meetup.com/salsa-bachata-group-classes-dance-party-in-san-mateo/events/316136374/",
       "styles": [
-        "blues"
+        "bachata"
       ],
       "status": "confirmed"
     },
@@ -1438,7 +1196,7 @@
       "end": null,
       "url": "https://www.meetup.com/come-dance-marin/events/316148099/",
       "styles": [
-        "salsa"
+        "bachata"
       ],
       "status": "confirmed"
     },
@@ -1511,22 +1269,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "Salsa Classes SF: 4-Week Beginner Salsa Lessons — No Partner Needed, Sept 7",
-      "description": "Learn to salsa this September in SF — a step-by-step 4-week Monday series. No partner or experience needed, plus a dance party every week.",
-      "location": "SalsaCrazy Mondays, Neck of the Woods, San Francisco",
-      "start": {
-        "date": "2026-09-07"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/salsa-classes-sf-4-week-beginner-salsa-lessons-no-partner-needed-sept-7-tickets-1996423367033",
-      "styles": [
-        "salsa"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "SalsaCrazy Mondays — Salsa Classes + Salsa & Bachata Dancing in SF",
       "description": "SF's legendary Monday salsa night, 20+ years strong Step-by-step beginner classes + salsa & bachata dancing. No partner or experience needed",
       "location": "SalsaCrazy Mondays, Neck of the Woods, San Francisco",
@@ -1535,6 +1277,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/salsacrazy-mondays-salsa-classes-salsa-bachata-dancing-in-sf-tickets-1998964763418",
+      "styles": [
+        "salsa"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Salsa Classes SF: 4-Week Beginner Salsa Lessons — No Partner Needed, Sept 7",
+      "description": "Learn to salsa this September in SF — a step-by-step 4-week Monday series. No partner or experience needed, plus a dance party every week.",
+      "location": "SalsaCrazy Mondays, Neck of the Woods, San Francisco",
+      "start": {
+        "date": "2026-09-07"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/salsa-classes-sf-4-week-beginner-salsa-lessons-no-partner-needed-sept-7-tickets-1996423367033",
       "styles": [
         "salsa"
       ],
@@ -1714,7 +1472,7 @@
       "end": null,
       "url": "https://www.meetup.com/bay-area-dancing-for-singles-and-couples/events/316176834/",
       "styles": [
-        "bachata"
+        "kizomba"
       ],
       "status": "confirmed"
     },
@@ -1901,6 +1659,22 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
+      "title": "Loving Life, Dancing Peace: Biodanza in the Park",
+      "description": "After a fun Bay Area Dance Week experience, we will continue with Biodanza in the park on Tuesdays!\n\nBiodanza is a globally practiced authentic movement journey that opens our hearts to all of life, cultivates vitality, and nurtures deep peace with ourselves, and the world. No prior dance experience needed!\n\nI will guide us through a journey of nourishing exercises (in the whole group, solo, or in small groups). Each exercise is an invitation that you are welcome to modify for your comfort. No prior dance experience needed!\n\nMay themes: unfurling, budding, and dancing our dreams\n\nFor more info: [http://www.biodanzawithbabsi.com](http://www.biodanzawithbabsi.com/)\n[Loving Life\\, Dancing Peace: Biodanza \\- The Poetry of Human Encounter \\| BOPSIDY](https://www.bopsidy.com/e/1442)",
+      "location": "Strawberry Creek Park",
+      "start": {
+        "dateTime": "2026-09-09T00:30:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/biodanza-with-babsi/events/316191396/",
+      "styles": [
+        "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
       "title": "TUESDAYS LINE DANCING CLASSES IN SAN MATEO",
       "description": "**EVERY TUESDAY:**\n6pm - 7pm Line Dancing Class for All Levels\n\nEver seen a whole group suddenly dancing in sync and wished you could join in? Now you can! Learn fun, popular line dances like the Electric Slide, Macarena, and Footloose—no experience needed. If you can walk, jump, and kick, you can do this!\n\nEach class features a different song, and we’ll break it down step by step so you leave knowing at least one full dance. No need to wait for the next party—come dance, have fun, and join the crowd. All levels welcome!\n\n**WHERE:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**PRICE PER PERSON:**\n**Class Drop-ins:**\n\\- Single Session: $35\n\n**BOOKING INFORMATION:**\nOnline pre-registration required:\n[REGISTER HERE](https://motionartscenter.com/line-dancing/)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• No special clothes are required, what feels comfortable for you is good.\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n• Online Registration & Booking Required.",
       "location": "Motion Arts Center",
@@ -1908,7 +1682,7 @@
         "dateTime": "2026-09-09T01:00:00.000Z"
       },
       "end": null,
-      "url": "https://www.meetup.com/line-dancing-in-san-mateo/events/316191924/",
+      "url": "https://www.meetup.com/line-dancing-in-san-mateo/events/316191925/",
       "styles": [
         "west_coast_swing"
       ],
@@ -2083,6 +1857,38 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "GOOD VIBEZZ Thursdays",
+      "description": "Throwback Thursdays with reggaeton & hip-hop — straight classics only. If you know the words, you already know the vibe.",
+      "location": "The Valencia Room, SAN FRANCISCO",
+      "start": {
+        "date": "2026-09-10"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/good-vibezz-thursdays-tickets-1979702512507",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Cha-Cha 4 week group class series!",
+      "description": "Learn the basics of Social Cha-cha dance! This is a great series for beginners and people new to the genre. Join us for a progressive class!",
+      "location": "1275 Connecticut St, San Francisco",
+      "start": {
+        "date": "2026-09-10"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/cha-cha-4-week-group-class-series-tickets-1999296417404",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "D. Dan",
       "description": "Throttle techno returns!",
       "location": "1015 Folsom, San Francisco",
@@ -2195,6 +2001,22 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
+      "title": "Brazilian Samba Class",
+      "description": "Energetic, Friendly and Fun- Mary Dollar’s samba dance classes are authentic and accessible to all levels, with an “easy to follow” format for all to enjoy!\n\nGet in the groove, sweat and swing to a variety of Afro-Brazilian and samba rhythms, while improving your dance technique and performance skills.\nLearn basic technique, samba footwork, hip movements, arm styling & fun choreography that will boost your confidence on the dance floor!\nThe class includes full body warm-up, stretching and floor mat exercises.\nWear comfortable clothing and soft-soled shoes and bring a floor mat and towel.​\nYou’ll have so much fun, you’ll forget you’re getting a great workout!\n\n**DROP IN:** $20/class\nOR Purchase a **CLASS PACK** at a discounted rate!\n\n[https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN](https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN)",
+      "location": "Hidden City Ballroom",
+      "start": {
+        "dateTime": "2026-09-10T02:30:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/come-dance-marin/events/316208523/",
+      "styles": [
+        "salsa"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
       "title": "Bachata Dance Classes w/ Henry",
       "description": "Location: ALLEGRO, 12012 San Pablo Ave (cross st - Key Street), Richmond, CA (Park at the Grocery lot)\n\nBeginners - 730pm\n$15-$25 at the door",
       "location": "Allegro Ballroom (New Location)",
@@ -2205,22 +2027,6 @@
       "url": "https://www.meetup.com/danceenthusiasts/events/316208381/",
       "styles": [
         "bachata"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Brazilian Samba Class",
-      "description": "Energetic, Friendly and Fun- Mary Dollar’s samba dance classes are authentic and accessible to all levels, with an “easy to follow” format for all to enjoy!\n\nGet in the groove, sweat and swing to a variety of Afro-Brazilian and samba rhythms, while improving your dance technique and performance skills.\nLearn basic technique, samba footwork, hip movements, arm styling & fun choreography that will boost your confidence on the dance floor!\nThe class includes full body warm-up, stretching and floor mat exercises.\nWear comfortable clothing and soft-soled shoes and bring a floor mat and towel.​\nYou’ll have so much fun, you’ll forget you’re getting a great workout!\n\n**DROP IN:** $20/class\nOR Purchase a **CLASS PACK** at a discounted rate!\n\n[https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN](https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/Z5MCMAVGYFY3RUTP6TX7GPRN)",
-      "location": "Hidden City Ballroom",
-      "start": {
-        "dateTime": "2026-09-10T02:30:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/come-dance-marin/events/316208523/",
-      "styles": [
-        "kizomba"
       ],
       "status": "confirmed"
     },
@@ -2287,22 +2093,6 @@
       "url": "https://sftangowith.us/event/milonga-malevaje-26-2/2026-09-10/",
       "styles": [
         "argentine_tango"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "meetup",
-      "source_label": "Meetup",
-      "title": "Castro Valley Dance",
-      "description": "",
-      "location": "",
-      "start": {
-        "dateTime": "2026-09-10T21:00:00.000Z"
-      },
-      "end": null,
-      "url": "https://www.meetup.com/bay-area-dancing-for-singles-and-couples/events/316218522/",
-      "styles": [
-        "salsa"
       ],
       "status": "confirmed"
     },
@@ -2389,22 +2179,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "French Duo AMOUR PROPRE (Indie Dance & Afro House) at MadaRae",
-      "description": "French Duo AMOUR PROPRE (Indie Dance & Afro House) at MadaRae San Francisco",
-      "location": "Madarae, San Francisco",
-      "start": {
-        "date": "2026-09-11"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/french-duo-amour-propre-indie-dance-afro-house-at-madarae-tickets-1998457747921",
-      "styles": [
-        "kizomba"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "AMOUR PROPRE (Afro House & Indie Dance) at MadaRae",
       "description": "AMOUR PROPRE (Afro House & Indie Dance) at MadaRae San Francisco",
       "location": "Madarae, San Francisco",
@@ -2413,6 +2187,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/amour-propre-afro-house-indie-dance-at-madarae-tickets-1998458196262",
+      "styles": [
+        "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "French Duo AMOUR PROPRE (Indie Dance & Afro House) at MadaRae",
+      "description": "French Duo AMOUR PROPRE (Indie Dance & Afro House) at MadaRae San Francisco",
+      "location": "Madarae, San Francisco",
+      "start": {
+        "date": "2026-09-11"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/french-duo-amour-propre-indie-dance-afro-house-at-madarae-tickets-1998457747921",
       "styles": [
         "kizomba"
       ],
@@ -2469,6 +2259,70 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
+      "title": "Ballroom- Waltz Class",
+      "description": "Learn to Waltz with Instructor Suzie Hardt. No partner needed!\n\nNo experience necessary!\nAll levels.\n\nGet up to Speed! Arrive at 6:15PM for a mini Waltz review lesson\nClass starts at 6:30PM\n\n**DROP IN:** $20/class\nOR Purchase a **CLASS PACK** at a discounted rate!\n[https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/7LVBIZ76RNNEMXKXSC6ABR7W?src=embed](https://checkout.square.site/merchant/5AX3WBCHV29JF/checkout/7LVBIZ76RNNEMXKXSC6ABR7W?src=embed)",
+      "location": "Hidden City Ballroom",
+      "start": {
+        "dateTime": "2026-09-11T01:30:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/come-dance-marin/events/316222626/",
+      "styles": [
+        "salsa"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "Thursdays Bachata Dance Classes in San Mateo",
+      "description": "**EVERY THURSDAY:**\n7pm - 8pm Bachata Pre-Intermediate Level\n8pm - 9pm Bachata Intermediate Level\n9pm Practice Time\n\n**CLASS LOCATION:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**Beginner Level Class:** In this class you will learn the fundamentals of bachata. The basic footwork, turns, body movements and how to lead/follow to feel comfortable dancing with a partner, be able to improvise and get you ready for the social dance floor!\n\n**Intermediate Level Class:** This is the right class if you have been taking consistently our **Pre-Intermediate Level Class for a period of at least 1 year (this will depend on your pace of learning) or by the teachers recommendation.** In this class you will learn more intricate patterns, turns, arm styling, body isolations and musicality, all while building the confidence and vocabulary you need to feel even better dancing on the social floor!\n\n**PRICE PER PERSON:**\n**New Student 7 Day - 7 Class Intro Pass: $69** (Save up to $176 total, compared to purchasing individual classes) or\n**Class Drop-ins:**\n\\- Single Session: $35\n\\- Two Sessions Same Day: $60 \\(Save $10 total\\)\n\n**BOOKING INFORMATION:**\nOnline pre-registration required:\n[REGISTER HERE](https://clients.mindbodyonline.com/classic/ws?studioid=38698&stype=-2&subTab=info)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• Face Masks are Now Optional (but Recommended).\n\n• You can come by yourself or with a partner.\n\n• No special clothes are required, what feels comfortable for you is good.\n\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n\n• Online Registration & Booking Recommended.",
+      "location": "Motion Arts Center",
+      "start": {
+        "dateTime": "2026-09-11T02:00:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/salsa-bachata-group-classes-dance-party-in-san-mateo/events/316222978/",
+      "styles": [
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "Thursdays Bachata Classes in San Mateo",
+      "description": "**EVERY THURSDAY:**\n7pm - 8pm Bachata Beginner Level\n8pm - 9pm Bachata Intermediate Level\n9pm Practice Time\n\n**CLASS LOCATION:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**Beginner Level Class:** In this class you will learn the fundamentals of bachata. The basic footwork, turns, body movements and how to lead/follow to feel comfortable dancing with a partner, be able to improvise and get you ready for the social dance floor!\n\n**Intermediate Level Class:** This is the right class if you have been taking consistently our **Pre-Intermediate Level Class for a period of at least 1 year (this will depend on your pace of learning) or by the teachers recommendation.** In this class you will learn more intricate patterns, turns, arm styling, body isolations and musicality, all while building the confidence and vocabulary you need to feel even better dancing on the social floor!\n\n**PRICE PER PERSON:**\n**New Student 7 Day - 7 Class Intro Pass: $69** (Save up to $176 total, compared to purchasing individual classes) or\n**Class Drop-ins:**\n\\- Single Session: $35\n\\- Two Sessions Same Day: $60 \\(Save $10 total\\)\n\n**BOOKING INFORMATION:**\n\n[REGISTER HERE](https://clients.mindbodyonline.com/classic/ws?studioid=38698&stype=-2&subTab=info)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• Face Masks are Now Optional (but Recommended).\n\n• You can come by yourself or with a partner.\n\n• No special clothes are required, what feels comfortable for you is good.\n\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n\n• Online Registration & Booking Required.",
+      "location": "Motion Arts Center",
+      "start": {
+        "dateTime": "2026-09-11T02:00:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/latin-ballroom-dance-classes-meetup-in-san-mateo/events/316222977/",
+      "styles": [
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "Swing Lessons + Social Dancing every Thurs. ~ Oakland ~ Veterans Memorial Hall",
+      "description": "",
+      "location": "",
+      "start": {
+        "dateTime": "2026-09-11T02:00:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/bay-area-dancing-for-singles-and-couples/events/316222962/",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
       "title": "The Sound Portal: New Moon/Stepping into Balance Point Sound Celebration ",
       "description": "# Welcome to the The Sound PORTAL - finding balance as we approach the New Moon, and the Fall Equinox\n\n(PLEASE NOTE: BRING: what YOU WILL NEED TO LAY ON WOOD FLOOR, mat blanket etc... chairs available to sit)\n\nOur kick-off event at the new space was amazing!! Please join us to stir the energetic cauldron at Hillside Community Sanctuary.\nThrough immersive sounds, meditation, ceremony we gather to prepare for the New moon and step towards the threshold of the Autumn Equinox; a natural point of balance and transition.\nThe New moon = new beginnings. Join us as we create space to slow down, take stock of what this season has brought into fruition. With the potent sound scape, allow the vibrations to energetically chip away what is no longer needed. Bring your highest forms of gratitude and listen deeply for what’s currently asking for your attention.\n\n**Bring intentions of your New Beginnings & be open to insight and guidance from your high Self and/or guides.**\nThrough sound and stillness, we return to center and prepare to cross into the new all season with greater clarity, balance, and intention.\nSurrender to the vibrational healing of gong, crystal bowls, and a variety of unique instruments and let yourself be restored.\n\n**DATE:** Thursday, September 10, 2026\n**TIME:** 7:30–9:00 PM PDT (Doors open at 7:15 PM)\n**LOCATION:** Hillside Community Church\n1422 Navellier Street (between Potrero and Moeser)\nEl Cerrito, CA\n(LOOK FOR THE SIGN ON NAVELLIER ---- THE BUILDING/PARKING LOT IS NOT ON THE STREET, YOU MUST TURN IN - TOWARDS THE HILLS :-)\n\n**COST:** $25 - $45 sliding scale [PAY HERE TO SAVE YOUR SEAT](https://www.balancepointshamanism.com/store/journey-event-2025)\n\nPlease note: the “pay what you can” rate continues. This *anyi* (sacred reciprocity) is available for September as well.\nThe suggested donation is $25-$45, please pay if you are able, yet if you are not, pay what you can at the door.\n\n**Registration is required to save your seat**:\n\"Pay What You Can\"\nRSVP directly to Jnana at **bpshamanism@gmail.com**\n\nTo claim your seat RSVP via Jnana's website: [https://www.balancepointshamanism.com/store/journey-event-june2024-kcgre](https://www.balancepointshamanism.com/store/journey-event-2025)\n\n**What to Bring**\nPlease bring whatever helps you feel comfortable lying or sitting on the floor:\n\n--Yoga mat or reclining camp chair\n--Blanket\n--Pillow or bolster\n--**SHOE FREE event-- bring warm socks**\n--Eye pillow or eye mask (optional)\n--Water bottle\n--Warm layers (you can always remove them)\nchairs are available for those that prefer to sit\n\n**Most importantly, bring yourself exactly as you are.**\n\nI look forward to welcoming you to The Sound Portal's new home and sharing an evening of rest, resonance, and community.\n\n**Cancellation/Registration Policy**\nOnce you register, your space is reserved for you. If you are unable to attend, you are welcome to send a friend in your place for that event. Registrations are not refundable and may not be transferred to future events.\n\n**LEADER:**\nJnana Gowan, Certified Hypnotherapist, Sound *Maestra*, Shamanic Practitioner\n\nJnana Gowan creates immersive soundscape experiences that weave together sound, guided meditation, ritual, and contemplative practice to support deep rest, inner awareness, and meaningful healing.\n\nFor nearly three decades, she has been devoted to the healing arts, and in the past 15 years, using sound as a gateway to calm the nervous system, restore balance, and invite profound inner transformation.\n\nFounder of Balance Point Shamanism, (now evolving into Balance Point Living) her work is informed by a rich background in yoga, Reiki, Peruvian shamanism, and other contemplative traditions, creating experiences that are both deeply grounding and expansive.\n\nGuided by the Andean principle of ayni—sacred reciprocity—Jnana invites participants into a living relationship with themselves, one another, nature, and spirit. In addition to public sound experiences, she offers private healing sessions, immersive programs, and shamanic apprenticeship training in the East Bay and online.\n\nLearn more at [www.balancepointshamanism.com](https://www.balancepointshamanism.com/)\nsoon to become Balance Point Living.",
       "location": "Hillside Community Church",
@@ -2479,6 +2333,22 @@
       "url": "https://www.meetup.com/the-sound-portal-with-balance-point-living/events/316362428/",
       "styles": [
         "line_dance_country"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "Thursday Night Irish Set Dancing at the Plough and Stars",
+      "description": "Come and take part in our decades-long tradition of Irish partner dancing on Thursday nights at the most authentic, most famous, and coziest Irish pub on the West Coast.\n\nWe have a different band performing live traditional Irish music for us each week.\n\nTypical attendance is 15-25 dancers. (Note that the RSVP count on Meetup doesn't reflect the actual number attending – these events are advertised in numerous places.)\n\n*Safety note:* If you are displaying any symptoms of illness or if you feel under the weather, we kindly ask that you please remain at home and come back another time - there will be dancing again on the following Thursday!)\n\n**Cost:** $10. If you are able to contribute more, it all goes to the musicians and is greatly appreciated.",
+      "location": "The Plough and the Stars",
+      "start": {
+        "dateTime": "2026-09-11T03:30:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/irishdance/events/316223550/",
+      "styles": [
+        "swing_lindy"
       ],
       "status": "confirmed"
     },
@@ -2631,22 +2501,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "Boombox Cartel presented by Public Works & Insomniac",
-      "description": "Boombox Cartel presented by Public Works & Insomniac",
-      "location": "Public Works, San Francisco",
-      "start": {
-        "date": "2026-09-12"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/boombox-cartel-presented-by-public-works-insomniac-tickets-1995572478001",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "Tech & Latin House Duo BLACK V NECK at MadaRae",
       "description": "Tech & Latin House Duo BLACK V NECK at MadaRae  San Francisco",
       "location": "Madarae, San Francisco",
@@ -2655,6 +2509,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/tech-latin-house-duo-black-v-neck-at-madarae-tickets-1999327796259",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "THE REUNION: PHS ALL BLACK AFFAIR 2026",
+      "description": "PHS All Black Affair 2026: An elegant night of music, dancing, and reconnecting with fellow alumni. Dress to impress in all black.",
+      "location": "Carl F. Grant Civic Center, Plaquemine",
+      "start": {
+        "date": "2026-09-12"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/the-reunion-phs-all-black-affair-2026-tickets-1996412618885",
       "styles": [
         "swing_lindy"
       ],
@@ -2889,6 +2759,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "LGBTQ+ Singles Mixer Dancing- San Fransico",
+      "description": "Get ready to meet cool LGBTQ+ singles and show off your best moves at a fun dance night made just for the LGBTQ+ crowd!",
+      "location": "550 Barneveld Ave, San Francisco",
+      "start": {
+        "date": "2026-09-13"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/lgbtq-singles-mixer-dancing-san-fransico-tickets-1998859637985",
+      "styles": [
+        "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Forró Sundays at The Ramp SF",
       "description": "Dance your heart out every Sunday with groovy Forró vibes at The Ramp SF—let’s spin and sway all night!",
       "location": "855 Terry A Francois Blvd, San Francisco",
@@ -2937,14 +2823,14 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "LGBTQ+ Singles Mixer Dancing- San Fransico",
-      "description": "Get ready to meet cool LGBTQ+ singles and show off your best moves at a fun dance night made just for the LGBTQ+ crowd!",
-      "location": "550 Barneveld Ave, San Francisco",
+      "title": "Sungay Brunch Fall Series Returns to SF Sept 13th",
+      "description": "Mexico City’s Sungay Brunch returns to SF Sept. 13 — bringing the music, dancing, performances and energy back to the Bay.",
+      "location": "Teeth Bar SF, San Francisco",
       "start": {
         "date": "2026-09-13"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/lgbtq-singles-mixer-dancing-san-fransico-tickets-1998859637985",
+      "url": "https://www.eventbrite.com/e/sungay-brunch-fall-series-returns-to-sf-sept-13th-tickets-1999339624638",
       "styles": [
         "contra"
       ],
@@ -3345,6 +3231,22 @@
       "status": "confirmed"
     },
     {
+      "source": "meetup",
+      "source_label": "Meetup",
+      "title": "TUESDAYS LINE DANCING CLASSES IN SAN MATEO",
+      "description": "**EVERY TUESDAY:**\n6pm - 7pm Line Dancing Class for All Levels\n\nEver seen a whole group suddenly dancing in sync and wished you could join in? Now you can! Learn fun, popular line dances like the Electric Slide, Macarena, and Footloose—no experience needed. If you can walk, jump, and kick, you can do this!\n\nEach class features a different song, and we’ll break it down step by step so you leave knowing at least one full dance. No need to wait for the next party—come dance, have fun, and join the crowd. All levels welcome!\n\n**WHERE:**\nMotion Arts Center\n217 S Claremont St,\nSan Mateo, CA 94401\n\n**PRICE PER PERSON:**\n**Class Drop-ins:**\n\\- Single Session: $35\n\n**BOOKING INFORMATION:**\nOnline pre-registration required:\n[REGISTER HERE](https://motionartscenter.com/line-dancing/)\n\nIf you notice you may have any of the COVID-19 symptoms please stay home for everyone’s safety.\n\n• No special clothes are required, what feels comfortable for you is good.\n• Please do come with a pair of smooth sole shoes, either leather or suede will work on the dance floor. Dance shoes available for sale at our dance boutique.\n• Online Registration & Booking Required.",
+      "location": "Motion Arts Center",
+      "start": {
+        "dateTime": "2026-09-16T01:00:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/line-dancing-in-san-mateo/events/316291118/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "wp_events_calendar:sf_tango_with_us",
       "source_label": "SF Tango With.Us",
       "title": "Tango dance classes with Diego and Alejandra at La Bruja",
@@ -3645,8 +3547,24 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "ANGEL & HIS MAMBOKAT COMBO",
+      "description": "Travel back to the golden era of the 40s & 50s for one unforgettable night of live mambo, jazz, and timeless vibes",
+      "location": "Verdi Club, San Francisco",
+      "start": {
+        "date": "2026-09-19"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/angel-his-mambokat-combo-tickets-1988196153215",
+      "styles": [
+        "salsa"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "ADHS 150 Anniversary Alumni Dance",
-      "description": "Join us for the ADHS 150 Anniversary Alumni Dance – a fun night to celebrate and reconnect live!",
+      "description": "Get ready to dance and catch up with old friends at the ultimate ADHS 150th bash!",
       "location": "Nick Smith Centre, Arnprior",
       "start": {
         "date": "2026-09-19"
@@ -3677,22 +3595,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "Vxsion  (Afro House) at MadaRae",
-      "description": "Vxsion  (Afro House) at MadaRae San Francisco",
-      "location": "MadaRae San Francisco, San Francisco",
-      "start": {
-        "date": "2026-09-19"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/vxsion-afro-house-at-madarae-tickets-1999412455477",
-      "styles": [
-        "zouk"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "VXSION (Afro House)  at MadaRae",
       "description": "VXSION (Afro House)  at MadaRae San Francisco",
       "location": "Madarae, San Francisco",
@@ -3709,6 +3611,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Vxsion  (Afro House) at MadaRae",
+      "description": "Vxsion  (Afro House) at MadaRae San Francisco",
+      "location": "MadaRae San Francisco, San Francisco",
+      "start": {
+        "date": "2026-09-19"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/vxsion-afro-house-at-madarae-tickets-1999412455477",
+      "styles": [
+        "zouk"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Hello Gatita Perreo @ Temple Nightclub",
       "description": "A Hello Kitty Perreo Experience",
       "location": "Temple Nightclub, San Francisco",
@@ -3717,6 +3635,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/hello-gatita-perreo-temple-nightclub-tickets-1996922829940",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "PLAYBOY PARTY",
+      "description": "Playboy Party at City Nights SF — Club X Bunny Baddie Party, September 19. DJs Magic Matt + Mark G. top 40, edm, club hits. 18+. doors 10pm.",
+      "location": "City Nights, San Francisco",
+      "start": {
+        "date": "2026-09-19"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/playboy-party-tickets-1999414165592",
       "styles": [
         "swing_lindy"
       ],
@@ -3773,22 +3707,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "Roxie Neon Screening and VIP Reception for Neon Speaks",
-      "description": "San Francisco-centric footage of  neon lost landscapes featuring Chinatown",
-      "location": "Roxie Theater, San Francisco",
-      "start": {
-        "date": "2026-09-19"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/roxie-neon-screening-and-vip-reception-for-neon-speaks-tickets-1991424512324",
-      "styles": [
-        "west_coast_swing"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "Coffee & Conversation  about Reparations to African People",
       "description": "Learn about  Uhuru (freedom) Solidarity Movement, organizing reparations from white people led by the African People's Socialist Party.",
       "location": "Cafe International, San Francisco",
@@ -3797,6 +3715,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/coffee-conversation-about-reparations-to-african-people-tickets-1988628788238",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Roxie Neon Screening and VIP Reception for Neon Speaks",
+      "description": "San Francisco-centric footage of  neon lost landscapes featuring Chinatown",
+      "location": "Roxie Theater, San Francisco",
+      "start": {
+        "date": "2026-09-19"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/roxie-neon-screening-and-vip-reception-for-neon-speaks-tickets-1991424512324",
       "styles": [
         "west_coast_swing"
       ],
@@ -3815,6 +3749,22 @@
       "url": "https://www.eventbrite.com/e/spire-tango-practica-tickets-1988786097755",
       "styles": [
         "argentine_tango"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Sunrise Social",
+      "description": "New Haven’s newest daytime party! Tropical vibes, hookah & cocktails, then afro house, latin hits & club favorites as the floor comes alive!",
+      "location": "Club Vandome, New Haven",
+      "start": {
+        "date": "2026-09-19"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/sunrise-social-tickets-1995205013906",
+      "styles": [
+        "ballroom"
       ],
       "status": "confirmed"
     },
@@ -3885,6 +3835,22 @@
     {
       "source": "meetup",
       "source_label": "Meetup",
+      "title": "Bollywood Nights at Salesforce Park",
+      "description": "",
+      "location": "",
+      "start": {
+        "dateTime": "2026-09-19T00:30:00.000Z"
+      },
+      "end": null,
+      "url": "https://www.meetup.com/dancersmeltingpot/events/316332929/",
+      "styles": [
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "meetup",
+      "source_label": "Meetup",
       "title": "Bollywood Nights at Salesforce Park - Free",
       "description": "**Bollywood Nights at Salesforce Park 🎉**\n\nJoin Rang De Bollywood for some high-energy, outdoor, bollywood fun! This event is sure to leave you feeling loved, lighter, and delighted in excitement after every session.\n🌈 Open to all ages, all levels, all backgrounds.\n✨ Come casual or dressed, no pressure!\n\n🎁 Free to attend – just bring your joy, your people, and your dancing feet!\n\n🚶🏼‍♂️‍➡️Register for free so we can prepare at rang.eventbrite.com\n\n🕔 5:30 – 7:00 PM – we’ll start with a beginner friendly dance lesson, followed by an open dance party!\n\n💫 This is a repeating event, happening every 1st and 3rd Friday of the month, May through October\nand you can register for as many dates as you like.\nRegister now: [rang.eventbrite.com](http://rang.eventbrite.com)\n\n**About Rang De Bollywood**\nHailing from the dream dance city of Mumbai and Amritsar, which is also home to Bollywood and Holy Vibes, our energetic, charismatic, and fun dance instructors-performers-entertainers, Manpreet (Certified in Indian Folk by India's Best and also an author) and Amit (percussionist, actor, dancer), have spread Indian dance music and moves across the length and breadth of India, USA, and Europe. Their recent performances were at National Center of Performing Arts in Mumbai and Herbst Theater in San Francisco.\n\n**Important Notes:**\n\n* Enter through transit center building and take the elevator to rooftop. We will be close to the elevator.\n* No solicitors allowed.\n* Classes might be video taped for marketing purposes.\n* All choreographies are Copyrighted and Original Works of Manpreet Komal/Rang De Bollywood.\n\n*\"I recently had the pleasure of attending Manpreet’s Bollywood dance class, and I must say, it was an absolute blast! Whether you're a complete beginner or an experienced dancer, this class caters to everyone's skill level. The highlight of the class was undoubtedly her teaching style. With a knack for breaking down complex steps into manageable chunks, even the most intricate routines felt attainable. The pacing was just right, ensuring that beginners didn't feel overwhelmed while keeping experts engaged. Highly recommend!\" — Kavneet Bindra*\n\n**We can't wait to dance together, see you soon!**",
       "location": "salesforce park",
@@ -3892,9 +3858,9 @@
         "dateTime": "2026-09-19T00:30:00.000Z"
       },
       "end": null,
-      "url": "https://www.meetup.com/bollywood-dance-fitness-usa/events/315307399/",
+      "url": "https://www.meetup.com/mountain-view-dance-workshops/events/315970386/",
       "styles": [
-        "zouk"
+        "bachata"
       ],
       "status": "confirmed"
     },
@@ -4077,6 +4043,22 @@
       "url": "https://www.eventbrite.com/e/boogie-social-farmyard-dance-party-tickets-1997774013854",
       "styles": [
         "kizomba"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Daytime Realness September",
+      "description": "Daytime Realness September",
+      "location": "El Rio, San Francisco",
+      "start": {
+        "date": "2026-09-20"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/daytime-realness-september-tickets-1998503649213",
+      "styles": [
+        "swing_lindy"
       ],
       "status": "confirmed"
     },
@@ -4515,6 +4497,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "PERREO RAVE FEST",
+      "description": "Perreo Rave Fest at City Nights SF — Ritmo Latino sped-up perreo party, September 25. Frisko Eddy, Javi, HP. 18+. Doors 10pm. SoMa SF.",
+      "location": "City Nights, San Francisco",
+      "start": {
+        "date": "2026-09-25"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/perreo-rave-fest-tickets-1999419084304",
+      "styles": [
+        "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "SHAKE BODY: AFTER DARK — END OF SUMMER",
       "description": "Afrobeats. Amapiano. Dancehall. Hip-Hop. One final night for summer. SHAKE BODY takes over Temple San Francisco on Friday, September 25.",
       "location": "Temple Nightclub San Francisco, San Francisco",
@@ -4539,6 +4537,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/i-heart-the-90s-tickets-1999716899076",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "DAD FOLSOM FRIDAY - Sindri & Stefan Ways",
+      "description": "Feel the heat and get down to the beat with DAD on Folsom Street! Dark & dirty disco, electro, and house all night!",
+      "location": "F8 1192 Folsom, San Francisco",
+      "start": {
+        "date": "2026-09-25"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/dad-folsom-friday-sindri-stefan-ways-tickets-1997282877853",
       "styles": [
         "swing_lindy"
       ],
@@ -4657,6 +4671,22 @@
       "url": "https://www.eventbrite.com/e/treasure-island-museums-2026-swing-dance-benefit-tickets-1995133605321",
       "styles": [
         "bachata"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "COLLEGE MAYHEM",
+      "description": "COLLEGE MAYHEM at City Nights SF — Club X back-to-school baddie party, September 26. DJs Eden Roc + Mark G. top 40, EDM, club hits. 18+. doo",
+      "location": "City Nights, San Francisco",
+      "start": {
+        "date": "2026-09-26"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/college-mayhem-tickets-1999438276709",
+      "styles": [
+        "swing_lindy"
       ],
       "status": "confirmed"
     },
@@ -5257,6 +5287,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-10-03"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "gcal_ical:nextgen_swing_wcs_norcal",
       "source_label": "NextGen Swing Dance Club — Bay Area WCS Calendar",
       "title": "[SF] Moonlit Moves WCS",
@@ -5453,6 +5499,22 @@
       "url": "https://bacds.org/dance-scheduler/calendars/2026/10",
       "styles": [
         "contra"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Series Sept-Nov: Week 1",
+      "description": "\\*\\*2nd dance of the new 6-week class series!\\*\\* All new students are still welcome to join for the full series (no drop-in classes allowed)! Location: Russian Center of San Francisco, 2460 Sutter St, San Francisco, CA 94115 Progressive series classes: L2 & L4 from 7-8pm L3 & Fundamentals & Points+ from 8-9pm \\*This week we are offering our drop-in Points+ class! Must have a WSDC point in order to participate. $20 pay at the registration desk upon arrival. Dance from 9pm – midnight. The dance party is open to everyone to attend!",
+      "location": "Russian Center of San Francisco, 2460 Sutter St, San Francisco, CA 94115",
+      "start": {
+        "date": "2026-10-07"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
       ],
       "status": "confirmed"
     },
@@ -5665,18 +5727,18 @@
       "status": "confirmed"
     },
     {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
-      "title": "SIX DEGREES OF PDP presented by Printz Dance Project",
-      "description": "A curated evening of contemporary-jazz dance highlighting the works of choreographers with longstanding connections to the company",
-      "location": "ODC Dance Commons, San Francisco",
+      "source": "custom:recurring:sundance_saloon_thu",
+      "source_label": "Sundance Saloon",
+      "title": "Sundance Saloon — Thursday Country/Line Dancing",
+      "description": "",
+      "location": "550 Barneveld Ave, San Francisco",
       "start": {
-        "date": "2026-10-16"
+        "dateTime": "2026-10-15T18:30:00"
       },
       "end": null,
-      "url": "https://www.eventbrite.com/e/six-degrees-of-pdp-presented-by-printz-dance-project-tickets-1998833121674",
+      "url": "https://www.sundancesaloon.org",
       "styles": [
-        "kizomba"
+        "line_dance_country"
       ],
       "status": "confirmed"
     },
@@ -5731,6 +5793,22 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Fresh II Def",
+      "description": "Celebrating the pioneers who transformed hip-hop forever, Fresh II Def pays tribute to legends",
+      "location": "Bayview Opera House, San Francisco",
+      "start": {
+        "date": "2026-10-17"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/fresh-ii-def-tickets-1998022525158",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Lavay Smith and Her Red Hot Skillet Lickers",
       "description": "Sultry and award-winning, Lavay Smith & her Red Hot Skillet Lickers bring Jazz & Blues to life, captivating audiences worldwide!",
       "location": "Biscuits & Blues, San Francisco",
@@ -5773,6 +5851,22 @@
         "dateTime": "2026-10-17T06:59:00+00:00"
       },
       "url": "https://nextgenswingdance.com/calendar/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-10-18"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
       "styles": [
         "west_coast_swing"
       ],
@@ -5903,6 +5997,22 @@
       "url": "https://www.eventbrite.com/e/maire-ni-chathasaigh-chris-newman-in-concert-tickets-1998070808575",
       "styles": [
         "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "Grave Rave",
+      "description": "Get ready to dance all night at Grave Rave, the spookiest in-person party around!",
+      "location": "RAD Dad’s Event Center, Rolla",
+      "start": {
+        "date": "2026-10-24"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/grave-rave-tickets-1999423583762",
+      "styles": [
+        "contra"
       ],
       "status": "confirmed"
     },
@@ -6133,6 +6243,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-11-01"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "The 14th Structural Proteomics Symposium",
@@ -6229,6 +6355,22 @@
       "status": "confirmed"
     },
     {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-11-15"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
       "source": "eventbrite",
       "source_label": "Eventbrite",
       "title": "RAVEN headlines Big Top Saturday Drag & Dance Party Beaux in Castro",
@@ -6247,6 +6389,38 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
+      "title": "Garuda Blue Fall Concert",
+      "description": "Get ready to vibe with Garuda Blue at their Fall Concert - it's going to be an unforgettable evening of music and fun!",
+      "location": "712 Steiner St, San Francisco",
+      "start": {
+        "date": "2026-11-21"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/garuda-blue-fall-concert-tickets-1997459803041",
+      "styles": [
+        "blues"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-12-13"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
       "title": "Tomaseen Foley's A Celtic Christmas",
       "description": "A winter holiday celebration of Irish Music, Dance, Song, and Storytelling.",
       "location": "United Irish Cultural Center, San Francisco",
@@ -6255,6 +6429,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/tomaseen-foleys-a-celtic-christmas-tickets-1998921776844",
+      "styles": [
+        "west_coast_swing"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "custom:mission_city_swing",
+      "source_label": "Mission City Swing",
+      "title": "Sunday Practice Session",
+      "description": "Location: Polish Club, 3040 22nd St, San Francisco, CA 94110 Private lessons from 1-4pm\\* Open dancing from 4-6pm Open to ALL levels, no partner required! \\*Contact missioncityswing@gmail.com for more information on private lessons",
+      "location": "Polish Club, 3040 22nd St, San Francisco, CA 94110",
+      "start": {
+        "date": "2026-12-20"
+      },
+      "end": null,
+      "url": "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/",
       "styles": [
         "west_coast_swing"
       ],
@@ -6279,22 +6469,6 @@
     {
       "source": "eventbrite",
       "source_label": "Eventbrite",
-      "title": "San Francisco New Year's Eve Speakeasy Party Cruise 2027",
-      "description": "Ring in the New Year aboard our annual Speakeasy NYE Fireworks Cruise, an unforgettable night of glamour, music, and breathtaking views.",
-      "location": "40 Pier, San Francisco",
-      "start": {
-        "date": "2026-12-31"
-      },
-      "end": null,
-      "url": "https://www.eventbrite.com/e/san-francisco-new-years-eve-speakeasy-party-cruise-2027-tickets-1983316396732",
-      "styles": [
-        "swing_lindy"
-      ],
-      "status": "confirmed"
-    },
-    {
-      "source": "eventbrite",
-      "source_label": "Eventbrite",
       "title": "The Ball Drop (It Like It's Hot) 2026 New Years Eve Turn Up",
       "description": "Only 200 tix available",
       "location": "Pa'ina Restaurant & Lounge, San Francisco",
@@ -6303,6 +6477,22 @@
       },
       "end": null,
       "url": "https://www.eventbrite.com/e/the-ball-drop-it-like-its-hot-2026-new-years-eve-turn-up-tickets-1984829099266",
+      "styles": [
+        "swing_lindy"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "source": "eventbrite",
+      "source_label": "Eventbrite",
+      "title": "San Francisco New Year's Eve Speakeasy Party Cruise 2027",
+      "description": "Ring in the New Year aboard our annual Speakeasy NYE Fireworks Cruise, an unforgettable night of glamour, music, and breathtaking views.",
+      "location": "40 Pier, San Francisco",
+      "start": {
+        "date": "2026-12-31"
+      },
+      "end": null,
+      "url": "https://www.eventbrite.com/e/san-francisco-new-years-eve-speakeasy-party-cruise-2027-tickets-1983316396732",
       "styles": [
         "swing_lindy"
       ],

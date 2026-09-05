@@ -57,9 +57,9 @@ with the right `platform:` — no new code needed, the matching template
 connector picks it up automatically. Otherwise it needs a small script under
 `src/connectors/custom/`, same output shape as `src/event_schema.py`.
 
-## Current source status (updated 2026-09-03, second pass)
+## Current source status (updated 2026-09-04, third pass)
 
-391 events live as of the last full `run_all.py` run, across all 11 styles.
+403 events live as of the last full `run_all.py` run, across all 11 styles.
 
 | Source | Status |
 |---|---|
@@ -67,15 +67,21 @@ connector picks it up automatically. Otherwise it needs a small script under
 | SF Tango With.Us (wp_events_calendar) | Working — itself aggregates many Bay Area tango venues |
 | BACDS contra/English calendar (custom) | Working — 21-35 events/month, itself aggregates ~11 Bay Area church-hall/community-center venues via its own venue-code legend |
 | Cat's Corner + Sundance Saloon (custom, recurring generator) | Working — fixed weekly recurrence, generated forward rather than scraped (neither site has a dated calendar at all) |
+| Mission City Swing (custom) | Working — 11 events, weekly WCS dances + practice sessions (open to all, not closed classes) |
 | Bayshore Blues (wix) | Working |
 | Eventbrite / Meetup (keyword search, all 11 styles) | Working |
 | Luma (discover feed, keyword-filtered) | Working but low yield — Luma skews tech events, not dance |
 | Tip Top Ballroom | Deferred — real dated schedule exists but is mostly private kids/adult lesson bookings, not open socials; verbose per-entry markup not worth parsing yet |
 | Golden City Dance Collective (Punchpass) | Deferred — schedule widget too irregular to parse reliably |
-| BAWDC | Blocked — schedule page is gated behind reCAPTCHA even via rendering fetch, not automatable without a different approach |
-| ~10 other researched venues (Mission City Swing, La Bruja Tango, Arthur Murray, TangoMango, District Zouk, OmniZouk, etc.) | Not yet wired in — see `config/venues.yaml`'s bottom comment for the list |
+| BAWDC | Blocked — reCAPTCHA-gated even via rendering fetch, not automatable without a different approach |
+| TangoMango | Blocked — richest untapped source found (dozens of real NorCal tango events/week), but its calendar page exposes zero per-event URLs (confirmed via link extraction), so events can't be represented in this project's schema. See TODO.md for the real next step (look for an AJAX endpoint behind its event tooltips). |
+| ~7 other researched venues (District Zouk, OmniZouk, DJ Shivers, Coastside Country, Arthur Murray, Bay Area Ballroom & Latin Social, Bay Area Fusion Calendar, La Bruja Tango, CCSF Tango) | Not yet attempted/diagnosed — see `TODO.md` |
 
 **Live**: https://jjchong5.github.io/DanceEvents/
+
+See `TODO.md` for the open item list (what's blocked vs. just not attempted
+yet, and why) — kept separate from this status table so it doesn't need to
+be re-derived every time someone picks this back up.
 
 ## Deploying
 

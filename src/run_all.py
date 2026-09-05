@@ -22,6 +22,7 @@ CONNECTORS = [
     "src/connectors/luma.py",
     "src/connectors/custom/bacds.py",
     "src/connectors/custom/recurring.py",
+    "src/connectors/custom/mission_city_swing.py",
 ]
 
 

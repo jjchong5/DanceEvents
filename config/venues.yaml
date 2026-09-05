@@ -73,6 +73,15 @@ venues:
     confirmed_active: "2026-09-03"
     notes: "Genuine multi-venue aggregator -- its own monthly page lists real Bay Area church-hall/community-center venues by code (ASE, CCB, SME, PCSF, etc, resolved via its own 'Dance Venues' legend table). 21-35 real events/month confirmed live."
 
+  - slug: mission_city_swing
+    name: "Mission City Swing"
+    platform: custom  # src/connectors/custom/mission_city_swing.py -- confirmed working 2026-09-04
+    styles: [west_coast_swing]
+    calendar_url: "https://missioncityswing.com/classes/upcoming-class-and-event-schedule/"
+    homepage: "https://missioncityswing.com"
+    confirmed_active: "2026-09-04"
+    notes: "Despite the 'South Bay' framing from initial research, actual weekly dances are held in SF (Russian Center of SF, the Polish Club) -- open dance parties, not closed classes. No per-event URL on the page, all events link to the schedule page itself."
+
   - slug: golden_city_dance_collective
     name: "Golden City Dance Collective (GCDC)"
     platform: custom  # was going to be `punchpass` but the schedule widget at
@@ -101,16 +110,37 @@ venues:
     homepage: "https://www.kizombafoundations.com"
     confirmed_active: null
 
-# --- Not yet template-classified / needs a follow-up map+scrape pass before
-# wiring in (from initial research, lower confidence on URL/platform):
-#   - Mission City Swing (South Bay WCS) — missioncityswing.com
-#   - La Bruja Tango at Berkeley City Club — labrujatangoberkeley.com
+# --- Second pass, 2026-09-04. Investigated below; see TODO.md for what's
+# left, why each was deferred/blocked, and next-step notes for whoever
+# picks this up (a future session, or Jon by hand). Mission City Swing
+# moved up to a real entry above (src/connectors/custom/mission_city_swing.py).
+#
+# BLOCKED (confirmed, don't re-attempt the same way):
+#   - TangoMango (tangomango.org) — genuinely the richest single NorCal tango
+#     source found (dozens of real events/week across the whole region,
+#     confirmed live via firecrawl), but its calendar-grid page exposes NO
+#     per-event URLs at all (checked via --format links: 0 event links in
+#     11 total page links) — every event's detail is apparently a JS
+#     tooltip/popup with no addressable URL. Without a per-event url this
+#     project's shared event schema can't represent it properly (every
+#     event must link back to its source). Would need reverse-engineering
+#     their backend (an AJAX endpoint behind the tooltip, if one exists) to
+#     fix -- not attempted, flagged as the single highest-value target if
+#     someone wants to dig further.
+#   - BAWDC (bawdc.org/schedule) — reCAPTCHA-gated (see above entry).
+#
+# NOT YET ATTEMPTED (fetch failed or ran out of time this round, not
+# individually diagnosed -- try again before assuming they're hard):
+#   - District Zouk, OmniZouk (theomnimovement.org/omnizouk)
+#   - DJ Shivers Bay Area Country Nights (djshiversofficial.com)
+#   - Coastside Country (coastsidecountry.org)
+#   - La Bruja Tango at Berkeley City Club (labrujatangoberkeley.com) —
+#     likely LOW VALUE to add separately: SF Tango With.Us's wp_events_calendar
+#     feed already includes "at La Bruja" events (confirmed in initial
+#     merge output), so this may already be covered indirectly.
 #   - Arthur Murray Los Gatos — franchise template, may repeat across other
 #     Arthur Murray Bay Area locations if confirmed
 #   - Bay Area Ballroom & Latin Social
-#   - TangoMango (NorCal tango aggregator) — tangomango.org
-#   - District Zouk, OmniZouk
 #   - Bay Area Fusion Calendar
-#   - DJ Shivers Bay Area Country Nights, Coastside Country
 #   - CCSF Argentine Tango — community-college course catalog, not an event
 #     calendar; different shape entirely, lowest priority to automate
